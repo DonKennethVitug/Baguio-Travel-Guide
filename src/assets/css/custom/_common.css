@@ -1,0 +1,291 @@
+body {
+	font-family: "Open Sans", sans-serif;
+	font-size: 0.875rem;
+	padding-top: 55px;
+	padding-bottom: 55px;
+	height: 100%;
+}
+
+#container {
+	 width: 100%;
+	 height: 100%
+}
+
+button, html, input, select, textarea {
+	font-family: inherit !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: bold;
+}
+
+a {
+	color: #333;
+}
+
+a:hover, a:focus {
+	color: #666;
+}
+
+fieldset > legend {
+	font-size: 1.1428571429em;
+	font-weight: 600;
+	letter-spacing: 0.0625em;
+	padding-top: 1em;
+	text-transform: uppercase;
+}
+
+.qpons-red {
+	color: #c0392b;
+}
+
+
+/* BROWNSPANK"S BOOTSTRAP ENHANCEMENTS */
+
+.nowrap {
+	white-space: nowrap;
+}
+
+hr.spacer {
+	border-color: transparent;
+	margin-top: 15px;
+	margin-bottom: 14px;
+	width: 100%;
+}
+
+hr.spacer.spacer-lg {
+	margin-top: 25px;
+	margin-bottom: 24px;
+}
+
+hr.spacer.spacer-md {
+	margin-top: 20px;
+	margin-bottom: 19px;
+}
+
+hr.spacer.spacer-sm {
+	margin-top: 10px;
+	margin-bottom: 9px;
+}
+
+hr.spacer.spacer-xs {
+	margin-top: 5px;
+	margin-bottom: 4px;
+}
+
+.row.tight {
+	margin-left: -10px;
+	margin-right: -10px;
+}
+
+.row.tight [class*="col-"] {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.row.tighter {
+	margin-left: -5px;
+	margin-right: -5px;
+}
+
+.row.tighter [class*="col-"] {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.row.tightest {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.row.tightest [class*="col-"] {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.small {
+	font-size: 0.8571428571em;
+}
+
+.smaller {
+	font-size: 0.7857142857em;
+}
+
+.square-image {
+	background-color: #DDD;
+	background-size: cover;
+	background-position: center center;
+	display: block;
+	padding-bottom: 100%;
+	width: 100%;
+}
+
+.required-field .control-label:after {
+	content: "*";
+	color: #c0392b;
+	margin-left: 0.125em;
+}
+
+
+/* BOOTSTRAP ADDITIONS */
+
+.dropdown-menu > li > .checkbox {
+	clear: both;
+	color: #333;
+	display: block;
+	font-weight: 400;
+	line-height: 1.42857143;
+	margin: 0;
+	padding: 3px 20px;
+	white-space: nowrap;
+}
+
+.dropdown-menu > li > .checkbox:hover, .dropdown-menu > li > .checkbox:focus {
+	background-color: #f5f5f5;
+	color: #262626;
+	text-decoration: none;
+}
+
+
+/* OTHER COMMON STYLES */
+
+#Content > .jumbotron:first-child {
+	margin-top: -25px;
+}
+
+
+/* SEARCH BAR WITH AUTOCOMPLETE */
+
+.search-autocomplete {}
+
+	.search-autocomplete .autocomplete-dropdown {
+		right: 0;
+	}
+	
+		.search-autocomplete .autocomplete-dropdown > li > a {
+			height: 2.5em;
+			line-height: 2.5;
+			overflow: hidden;
+			padding-bottom: 0;
+			padding-top: 0;
+			text-overflow: ellipsis;
+		}
+
+
+/* DISCOUNT TAG */
+
+.discount-tag {
+	background-color: #999;
+	border-radius: 0.25em;
+	color: #FFF;
+	display: inline-block;
+	font-size: 0.75em;
+	line-height: 1;
+	padding: 0.25em 0.375em;
+	text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5);
+	vertical-align: middle;
+}
+
+.coupon-item .coupon-name .discount-tag {
+	float: right;
+	margin-right: 0.5em;
+}
+
+
+/* PLACEHOLDER LOGO */
+
+.coupon-item .placeholder-logo {
+	background-color: #6c757d;
+	color: #CCC;
+	display: block;
+	padding-bottom: 50%;
+	padding-top: 50%;
+	text-align: center;
+	width: 100%;
+}
+
+	.coupon-item .placeholder-logo .letter {
+		display: block;
+		font-size: 46px;
+		line-height: 1;
+		margin: -0.5em auto;
+		text-transform: uppercase;
+	}
+
+
+/* LOADING OVERLAY */
+
+#LoadingOverlay {
+	background: rgba(0, 0, 0, 0.75);
+	bottom: 0;
+	left: 0;
+	position: fixed;
+	right: 0;
+	top: 0;
+	z-index: 2000;
+}
+
+	#LoadingOverlay .loading-dialog {
+		background: #FFF;
+		border-radius: 6px;
+		left: 50%;
+		max-width: 350px;
+		min-width: 250px;
+		padding: 1.5em 1em 1em;
+		position: absolute;
+		top: 50%;
+		transform: translate(-50%, -50%);
+		width: 50%;
+	}
+	
+		#LoadingOverlay .progress {
+			height: 12px;
+			border-radius: 0;
+			margin-bottom: 0.5em;
+		}
+
+
+/* BREAKPOINTS */
+
+/* RESPONSIVE MAP EMBED */
+
+.map-responsive {
+	height: 0;
+	overflow: hidden;
+	padding-bottom: 66.667%;
+	position: fixed !important;
+	width: 100%;
+	height: 100%
+}
+
+.map-responsive iframe {
+	height: 100%;
+	left: 0;
+	position: fixed !important;
+	overflow: hidden;
+	top: 0;
+	width: 100%;
+}
+
+.map-responsive-2 {
+	height: 0;
+	overflow: hidden;
+	padding-bottom: 66.667%;
+	position: relative;
+}
+
+.map-responsive-2 iframe {
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+
+.strong {
+	font-weight: bold;
+}
+
+.Highlighted {
+	background-color: #FFFF00
+}

@@ -1,0 +1,625 @@
+[
+  {
+    "formatted_address": "Magsaysay Ave, Baguio, 2600 Benguet",
+    "geometry": {
+      "location": { "lat": 16.414937, "lng": 120.585272 }
+    },
+    "id": "Baguio City Public Market",
+    "name": "Baguio City Public Market",
+    "place_id": "Baguio City Public Market",
+    "rating": 4.1,
+    "review": {
+      "text": "Your visit to Baguio City will not be complete without a trip to the Baguio City Public Market. Located right in the heart of Baguio City near Burnham Park we can always stroll by whenever we are near. Usually, it does not happen that way. The best time to go here is when we are about to go home because of pasalubongs!"
+    },
+    "contact": "0923 354 3888",
+    "image": "assets/img/restaurants/Baguio City Public Market.jpg",
+    "opening_hours": {
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 0,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 1,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 2,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 3,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 4,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 5,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 6,
+            "nextDate": 1483236000000
+          }
+        }
+      ]
+    }
+  },
+  {
+    "formatted_address": "La Trinidad, Benguet",
+    "geometry": {
+      "location": { "lat": 16.460459, "lng": 120.584496 }
+    },
+    "id": "Strawberry Farm",
+    "name": "Strawberry Farm",
+    "place_id": "Strawberry Farm",
+    "rating": 4.2,
+    "review": {
+      "text": "Beautiful and majestic. Great food at the cafe. Lots of gift shops and cool stuff. The strawberry farm also sells broccoli and lettuce and kale and other produce. Super fresh and healthy and awesome"
+    },
+    "contact": "0955 396 5499",
+    "image": "assets/img/restaurants/Strawberry Farm.jpg",
+    "opening_hours": {
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 0,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 1,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 2,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 3,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 4,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 5,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 6,
+            "nextDate": 1483236000000
+          }
+        }
+      ]
+    }
+  },
+  {
+    "formatted_address": "Gibraltar Rd, Baguio, 2600 Benguet",
+    "geometry": {
+      "location": { "lat": 16.426371, "lng": 120.623103 }
+    },
+    "id": "Good Shepherd Convent",
+    "name": "Good Shepherd Convent",
+    "place_id": "Good Shepherd Convent",
+    "rating": 4.4,
+    "review": {
+      "text": "It offers wide selection of jams and other product that are made here by locals. They are famous for their UBE Jam the small one cost around 5 dollars or around 250 pesos. If you are here better buy in bulk because the price here is much cheaper than outside. They also have an observation deck that have an amazing view of the mountain "
+    },
+    "contact": "(074) 424 2496",
+    "image": "assets/img/restaurants/Good Shepherd Convent.jpg",
+    "opening_hours": {
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 0,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 1,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 2,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 3,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 4,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 5,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 6,
+            "nextDate": 1483236000000
+          }
+        }
+      ]
+    }
+  },
+  {
+    "formatted_address": "Baguio, Benguet",
+    "geometry": {
+      "location": { "lat": 16.426564, "lng": 120.578931 }
+    },
+    "id": "Mika'san Sweetshop",
+    "name": "Mika'san Sweetshop",
+    "place_id": "Mika'san Sweetshop",
+    "rating": 4.1,
+    "review": {
+      "text": "This store brought to you the famous and much-loved choc’o flakes bars of Baguio City has a new addition to its product line - MIKA’SAN Choc’o Flakes Bonbons."
+    },
+    "contact": "(074) 443 3942",
+    "image": "assets/img/restaurants/Mikasan Sweetshop.jpg",
+    "opening_hours": {
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 0,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 1,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 2,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 3,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 4,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 5,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 6,
+            "nextDate": 1483236000000
+          }
+        }
+      ]
+    }
+  },
+  {
+    "formatted_address": "Session Rd, Baguio, Benguet",
+    "geometry": {
+      "location": { "lat": 16.422697, "lng": 120.590813 }
+    },
+    "id": "Ibay's Silver Shop",
+    "name": "Ibay's Silver Shop",
+    "place_id": "Ibay's Silver Shop",
+    "rating": 4.3,
+    "review": {
+      "text": "This become a tourist destination in Baguio City. A trip to Baguio is not complete without going to an IBAY’S SILVER SHOP and buy pasalubong. Tour companies have included IBAY’S as part of their itinerary and one of their destination shops for token and it is a common sight to see an IBAY’S SILVER SHOP jam-packed with tourist, businessmen, students and shoppers buying fashion jewelry and miniature silver items."
+    },
+    "contact": "(074) 446 2620",
+    "image": "assets/img/restaurants/Ibays Silver Shop.jpg",
+    "opening_hours": {
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 0,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 1,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 2,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 3,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 4,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 5,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 6,
+            "nextDate": 1483236000000
+          }
+        }
+      ]
+    }
+  },
+  {
+    "formatted_address": "Country Club Rd, Camp John Hay, Baguio, 2600 Benguet",
+    "geometry": {
+      "location": { "lat": 16.405599, "lng": 120.612021 }
+    },
+    "id": "Baguio Country Club",
+    "name": "Baguio Country Club",
+    "place_id": "Baguio Country Club",
+    "rating": 3.5,
+    "review": {
+      "text": "Cozy and elegant old hotel. Rooms are clean and big. And have veranda. Very nice setting of the breakfast buffet area with the view of the golf course. Delicious foods and friendly helpful staffs"
+    },
+    "contact": "(074) 619 2050",
+    "image": "assets/img/restaurants/Baguio Country Club.jpg",
+    "opening_hours": {
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 0,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 1,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 2,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 3,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 4,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 5,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 6,
+            "nextDate": 1483236000000
+          }
+        }
+      ]
+    }
+  },
+  {
+    "formatted_address": "Amparo Heights, 70 Concepcion Drive, Camp 7, Baguio, 2600 Benguet",
+    "geometry": {
+      "location": { "lat": 16.388533, "lng": 120.592687 }
+    },
+    "id": "Tartland BAGUIO Pasarabo",
+    "name": "Tartland BAGUIO Pasarabo",
+    "place_id": "Tartland BAGUIO Pasarabo",
+    "rating": 4.4,
+    "review": {
+      "text": "Carry with you a basket of pasarabo from Tartland Baguio Pasarabo! Our kitchen knows perfectly well what your taste buds are craving for so we commit to providing the very best of take-home delicacies that your friends and families will surely love!"
+    },
+    "contact": "(074) 447 3158",
+    "image": "assets/img/restaurants/Tartland BAGUIO Pasarabo.jpg",
+    "opening_hours": {
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 0,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 1,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 2,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 3,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 4,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 5,
+            "nextDate": 1483236000000
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "nextDate": 1483275600000
+          },
+          "open": {
+            "day": 6,
+            "nextDate": 1483236000000
+          }
+        }
+      ]
+    }
+  }
+]

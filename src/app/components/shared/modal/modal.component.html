@@ -1,0 +1,38 @@
+<div
+  bsModal
+  #modalDirective="bs-modal"
+  class="modal fade"
+  tabindex="-1"
+  role="dialog"
+  aria-labelledby="dialog-child-name"
+>
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4
+          id="dialog-child-name"
+          class="modal-title pull-left"
+          [innerHTML]="modal.header_title"
+        ></h4>
+        <button
+          type="button"
+          class="close pull-right"
+          aria-label="Close"
+          (click)="modalDirective.hide()"
+        >
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body" [innerHTML]="modal.body_content"></div>
+      <div class="modal-footer">
+        <button
+          type="button"
+          *ngFor="let footer of modal.footers"
+          class="btn btn-{{ footer.color }}"
+          (click)="modalDirective.hide(); footer.action()"
+          [innerHTML]="footer.name"
+        ></button>
+      </div>
+    </div>
+  </div>
+</div>

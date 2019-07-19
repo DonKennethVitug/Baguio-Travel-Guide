@@ -1,0 +1,68 @@
+<div
+  bsModal
+  #modalDirective="bs-modal"
+  class="modal fade"
+  tabindex="-1"
+  role="dialog"
+  aria-labelledby="dialog-child-name"
+>
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 id="dialog-child-name" class="modal-title pull-left">Filter Map</h4>
+        <button
+          type="button"
+          class="close pull-right"
+          aria-label="Close"
+          (click)="modalDirective.hide()"
+        >
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div id="Content">
+          <div class="container">
+            <form>
+              <fieldset
+                *ngFor="let filter of filters"
+                (click)="filter.active = !filter.active">
+                <div
+                  class="checklist-group btn-group-toggle"
+                  [ngStyle]="{'background-color': filter.active ? '#dae0e5' : '#f8f9fa', 'border-color': filter.active ? '#d3d9df' : '#f8f9fa', 'font-weight': filter.active ? 'bolder' : 'unset'}"
+                >
+                  <label
+                    style="display: inline-block;
+                    text-align: center;
+                    white-space: nowrap;
+                    vertical-align: middle;
+                    -webkit-user-select: none;
+                    -moz-user-select: none;
+                    -ms-user-select: none;
+                    user-select: none;
+                    border: 1px solid transparent;
+                    padding: .375rem .75rem;
+                    font-size: 1rem;
+                    line-height: 1.5;
+                    border-radius: .25rem;"
+                  >
+                    <i class="fa fa-check fa-fw" [ngStyle]="{'color': filter.active ? '#dc3545' : '#212529'}"></i>
+                    {{ filter.name | titlecase }}
+                  </label>
+                </div>
+              </fieldset>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button
+          type="button"
+          class="btn btn-danger"
+          (click)="modalDirective.hide(); filter()"
+        >
+          Filter
+        </button>
+      </div>
+    </div>
+  </div>
+</div>

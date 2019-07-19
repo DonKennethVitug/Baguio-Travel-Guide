@@ -1,0 +1,45 @@
+<!-- CONTENT -->
+<br />
+<div id="Content">
+  <div class="container">
+    <div class="coupon-list row tight">
+      <!-- COUPON ITEM -->
+      <div class="coupon-item col-12 offset-0 col-sm-8 offset-sm-2">
+        <div class="wrapper">
+          <div class="row tighter" *ngIf="place_details !== undefined">
+            <div class="coupon-name col-12">
+              <h3>
+                <span class="qpons-red">{{
+                  place_details.name | titlecase
+                }}</span>
+              </h3>
+            </div>
+          </div>
+
+          <div class="tighter" *ngIf="place_details !== undefined">
+            <div class="coupon-image col-xs-12" *ngIf="place_details.image !== undefined">
+              <div
+                [ngStyle]="{
+                  'background-image':
+                    'url(\'' + place_details.image + '\')'
+                }"
+                class="square-image"
+              ></div>
+            </div>
+          </div>
+          <div class="tighter">
+            <div
+              class="coupon-description col-12"
+              *ngIf="place_details !== undefined"
+            >
+              <h5 class="description-heading" *ngIf="place_details.story !== undefined">Scary Experience</h5>
+              <div class="description-body small" *ngIf="place_details.story !== undefined">
+                {{ place_details.story }}
+              </div>
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /CONTENT -->
+</div>

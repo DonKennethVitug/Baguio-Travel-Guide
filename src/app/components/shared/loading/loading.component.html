@@ -1,0 +1,10 @@
+<!-- LOADING OVERLAY -->
+<div id="LoadingOverlay" *ngIf="loading.isLoading">
+	<div class="loading-dialog text-center">
+		<div class="progress">
+			<div class="progress-bar bg-danger progress-bar-striped active" role="progressbar" style="min-width: 2em;" [ngStyle]="{width: loading.percentage}"></div>
+		</div>
+		<div class="loading-text small">{{loading.msg}}&hellip;</div>
+	</div>
+</div>
+<!-- /LOADING OVERLAY -->

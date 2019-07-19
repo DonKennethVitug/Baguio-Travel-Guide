@@ -1,0 +1,368 @@
+[
+  {
+    "formatted_address": "Quirino Hwy, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4141816, "lng": 120.59220290000007 },
+      "viewport": {
+        "south": 16.4128000197085,
+        "west": 120.59082521970845,
+        "north": 16.4154979802915,
+        "east": 120.59352318029153
+      }
+    },
+    "id": "f2fed10238573f44d725ee6a9801f3228eaf3424",
+    "name": "Baguio City Police Office Station 7",
+    "place_id": "ChIJX9xREWahkTMR6OTXtjmoDoE",
+    "rating": 4,
+    "review": {
+      "author_name": "DocMar VetsWorld",
+      "author_url": "https://www.google.com/maps/contrib/102492303194823204000/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh4.googleusercontent.com/-yt8IkCPtG2k/AAAAAAAAAAI/AAAAAAAAjqw/Dhp9pOrD-4I/s128-c0x00000000-cc-rp-mo-ba7/photo.jpg",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Very accomodating.",
+      "time": 1500945738
+    },
+    "image": "assets/img/background/police.jpg"
+  },
+  {
+    "formatted_address": "Quirino National Hwy, Purok 3, Irisan, Baguio, 2600 Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4300588, "lng": 120.54861170000004 },
+      "viewport": {
+        "south": 16.4287436697085,
+        "west": 120.54734831970848,
+        "north": 16.4314416302915,
+        "east": 120.55004628029155
+      }
+    },
+    "id": "fcf28e66310575d54214d9025dc92a80fda156c6",
+    "name": "Baguio City - Police Precinct 9 Office",
+    "place_id": "ChIJdSilGI2hkTMRzSakacngeEA",
+    "rating": 0,
+    "review": { "text": "" },
+    "image": "assets/img/background/police.jpg"
+  },
+  {
+    "formatted_address": "14 Loakan Rd, Camp John Hay, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.3795931, "lng": 120.61933780000004 },
+      "viewport": {
+        "south": 16.3783204697085,
+        "west": 120.61802516970852,
+        "north": 16.3810184302915,
+        "east": 120.62072313029148
+      }
+    },
+    "id": "d630762af8afc526aceb3b1e1f7bf075eb7f8f12",
+    "name": "Baguio City Police Office Police Station 4",
+    "place_id": "ChIJ6Stb3iqhkTMRdpPGtCCdj20",
+    "rating": 0,
+    "review": { "text": "" },
+    "image": "assets/img/background/police.jpg"
+  },
+  {
+    "formatted_address": "Session Rd, Baguio, 2600 Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4121379, "lng": 120.59831859999997 },
+      "viewport": {
+        "south": 16.4107197197085,
+        "west": 120.59691026970847,
+        "north": 16.4134176802915,
+        "east": 120.59960823029155
+      }
+    },
+    "id": "8bc2c553f9bfc6fc2a6731f28427e368ba519bbe",
+    "name": "Office of the Station Commander",
+    "place_id": "ChIJA2ANtUKhkTMRG0JOFT_yaaM",
+    "rating": 0,
+    "review": { "text": "" },
+    "image": "assets/img/background/police.jpg"
+  },
+  {
+    "formatted_address": "Marcos Highway 2, Baguio City, Benguet, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.3968087, "lng": 120.58219200000008 },
+      "viewport": {
+        "south": 16.3954697197085,
+        "west": 120.58082751970846,
+        "north": 16.3981676802915,
+        "east": 120.58352548029143
+      }
+    },
+    "id": "b89ed606782e6926f48692b86f3cad177c6f2cf0",
+    "name": "Baguio Police Precinct 10",
+    "place_id": "ChIJz8b6-w6hkTMR2BxM6oY9O3M",
+    "rating": 0,
+    "review": { "text": "" },
+    "image": "assets/img/background/police.jpg"
+  },
+  {
+    "formatted_address": "Naguilian Rd, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4124495, "lng": 120.57935799999996 },
+      "viewport": {
+        "south": 16.4111309197085,
+        "west": 120.5780374197085,
+        "north": 16.4138288802915,
+        "east": 120.58073538029157
+      }
+    },
+    "id": "8375fc54e7b1638971e9cf9dbf4851e59a8e56c3",
+    "name": "POLICE STATION 1",
+    "place_id": "ChIJpV-S1nahkTMRG5JtL1F2hwo",
+    "rating": 5,
+    "review": {
+      "author_name": "Christie Guinid",
+      "author_url": "https://www.google.com/maps/contrib/103404502379407882450/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh6.googleusercontent.com/-ylwcc-X5QHs/AAAAAAAAAAI/AAAAAAAAACM/gTv1lDUetoE/s128-c0x00000000-cc-rp-mo/photo.jpg",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Accomodating and very helpful\nKind and respectful\nDoes their job as quick as possible\nNo complaints so far",
+      "time": 1535554417
+    },
+    "image": "assets/img/background/police.jpg"
+  },
+  {
+    "formatted_address": "Magsaysay Ave, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4256189, "lng": 120.59372659999997 },
+      "viewport": {
+        "south": 16.42428546970849,
+        "west": 120.59237021970853,
+        "north": 16.4269834302915,
+        "east": 120.59506818029149
+      }
+    },
+    "id": "8a25338e66061113d3fd26c97b6810c4e0a663be",
+    "name": "POLICE STATION 2",
+    "place_id": "ChIJRb9aBd-jkTMRle8s3QYj0ZE",
+    "rating": 0,
+    "review": { "text": "" },
+    "image": "assets/img/background/police.jpg"
+  },
+  {
+    "formatted_address": "Pacdal Cir, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.416694, "lng": 120.61554269999999 },
+      "viewport": {
+        "south": 16.4152624197085,
+        "west": 120.61415331970852,
+        "north": 16.4179603802915,
+        "east": 120.61685128029148
+      }
+    },
+    "id": "a005662244616493413437d0b4c1038e562bc9f9",
+    "name": "STATION 3",
+    "place_id": "ChIJrYA1OFShkTMR5DQojZFa7uQ",
+    "rating": 3,
+    "review": {
+      "author_name": "Susan Moyamoy",
+      "author_url": "https://www.google.com/maps/contrib/108684798380747578765/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/-kNXSvafDZ88/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rci6m9fwga79solOCivo5YHnaVpxg/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+      "rating": 3,
+      "relative_time_description": "in the last week",
+      "text": "I went in lunch time and the officer in charge attended to my needs promptly.",
+      "time": 1552455223
+    },
+    "image": "assets/img/background/police.jpg"
+  },
+  {
+    "formatted_address": "67-69 Lower Bonifacio St, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4167826, "lng": 120.59626030000004 },
+      "viewport": {
+        "south": 16.4154342197085,
+        "west": 120.59490901970844,
+        "north": 16.4181321802915,
+        "east": 120.59760698029152
+      }
+    },
+    "id": "bbff9b06d32403eb822533e11e12b9e5fb5674ad",
+    "name": "Baguio City Police Office Compac 3, Staion 7",
+    "place_id": "ChIJp1u1XGehkTMReP_3E-VbNwg",
+    "rating": 0,
+    "review": { "text": "" },
+    "image": "assets/img/background/police.jpg"
+  },
+  {
+    "formatted_address": "Kennon Rd, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.3918884, "lng": 120.59993140000006 },
+      "viewport": {
+        "south": 16.39055596970849,
+        "west": 120.59864031970847,
+        "north": 16.3932539302915,
+        "east": 120.60133828029143
+      }
+    },
+    "id": "276f52edd9d8b8588167aee0d3e05a13ae8a2358",
+    "name": "POLICE PRECINT No.8",
+    "place_id": "ChIJVzxL3zyhkTMRKNzOfk7KStU",
+    "rating": 5,
+    "review": {
+      "author_name": "David Yule Camiwet",
+      "author_url": "https://www.google.com/maps/contrib/101623366624721729826/reviews",
+      "profile_photo_url": "https://lh4.googleusercontent.com/-T_OLfkRXOMw/AAAAAAAAAAI/AAAAAAAACC8/51DCZq0ufl8/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "",
+      "time": 1514822865
+    },
+    "image": "assets/img/background/police.jpg"
+  },
+  {
+    "formatted_address": "Manuel Roxas, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4216137, "lng": 120.60023799999999 },
+      "viewport": {
+        "south": 16.4202358197085,
+        "west": 120.59885181970844,
+        "north": 16.4229337802915,
+        "east": 120.60154978029152
+      }
+    },
+    "id": "855fef366a12b5c2dab46006c3bacd70d63da42a",
+    "name": "Rimando Police Station",
+    "place_id": "ChIJw1YDdF-hkTMRKfq_NvQahr0",
+    "rating": 0,
+    "review": { "text": "" },
+    "image": "assets/img/background/police.jpg"
+  },
+  {
+    "formatted_address": "Shanum Street Corner/ Lakedrive Corner, Lake Dr, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4112415, "lng": 120.59271869999998 },
+      "viewport": {
+        "south": 16.4105101697085,
+        "west": 120.59201351970853,
+        "north": 16.4132081302915,
+        "east": 120.5947114802915
+      }
+    },
+    "id": "e92af283eeb75392314d0c5908b2080edafd6118",
+    "name": "TOURIST POLICE UNIT",
+    "place_id": "ChIJP5irwmihkTMRHcZDxgxGBuk",
+    "rating": 3,
+    "review": {
+      "author_name": "Theofrenz Cayambas",
+      "author_url": "https://www.google.com/maps/contrib/116895968072095533315/reviews",
+      "profile_photo_url": "https://lh4.googleusercontent.com/-xItwbsIW9gs/AAAAAAAAAAI/AAAAAAAAIqo/JA3SaRMOjxg/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "",
+      "time": 1356560476
+    },
+    "image": "assets/img/background/police.jpg"
+  },
+  {
+    "formatted_address": "102 Abanao St, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4141299, "lng": 120.59228689999998 },
+      "viewport": {
+        "south": 16.41264521970849,
+        "west": 120.5910366697085,
+        "north": 16.4153431802915,
+        "east": 120.59373463029146
+      }
+    },
+    "id": "6772c004c5c755bc8d85ebed73db03ddf0866ba3",
+    "name": "Police Station 7",
+    "place_id": "ChIJ64U1EWahkTMRc2wbgzQYgRM",
+    "rating": 5,
+    "review": {
+      "author_name": "Ron Sabarre",
+      "author_url": "https://www.google.com/maps/contrib/101590415716358380963/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh4.googleusercontent.com/-OdzuUgC3CJ4/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3revDXMmIMtJjClXoH2rroSflyoZMQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "They were quite gentle with the handcuffs, it didn't hurt one bit. The police car was very roomy and smelled nice, like fresh pine I would say. Overall, very professional. Will get arrested by them again, for sure. They're truly Baguio City's finest!",
+      "time": 1548589460
+    },
+    "image": "assets/img/background/police.jpg"
+  },
+  {
+    "formatted_address": "Under the Flyover,, Magsaysay Ave, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.42561779999999, "lng": 120.59367250000003 },
+      "viewport": {
+        "south": 16.42426656970849,
+        "west": 120.59232426970857,
+        "north": 16.4269645302915,
+        "east": 120.59502223029153
+      }
+    },
+    "id": "bc42ca91fffdfaa36ded95c8729278ca941ef758",
+    "name": "Baguio Police Precinct 2",
+    "place_id": "ChIJnVPPBd-jkTMRMcRKXYSySs0",
+    "rating": 0,
+    "review": { "text": "" },
+    "image": "assets/img/background/police.jpg"
+  },
+  {
+    "formatted_address": "105 Kayang St, Baguio, 2600 Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4144715, "lng": 120.59224429999995 },
+      "viewport": {
+        "south": 16.4131711197085,
+        "west": 120.59089551970851,
+        "north": 16.4158690802915,
+        "east": 120.59359348029147
+      }
+    },
+    "id": "e0ed96b659e739342275f371e1d41d0af19e10a4",
+    "name": "Baguio City Crime Laboratory Office",
+    "place_id": "ChIJLWBCE2ahkTMR-sPIYsfF9rg",
+    "rating": 0,
+    "review": { "text": "" },
+    "image": "assets/img/background/police.jpg"
+  },
+  {
+    "formatted_address": "Tuding, Antamok Rd, Itogon, 2604 Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4141002, "lng": 120.63358160000007 },
+      "viewport": {
+        "south": 16.4128013197085,
+        "west": 120.63222916970847,
+        "north": 16.4154992802915,
+        "east": 120.63492713029154
+      }
+    },
+    "id": "5cd422813191cb82a77e9db04be28c72b192ba3b",
+    "name": "ITOGON MUNICIPAL POLICE STATION",
+    "place_id": "ChIJ8fcTTqamkTMR41nv-pzbzao",
+    "rating": 0,
+    "review": { "text": "" },
+    "image": "assets/img/background/police.jpg"
+  },
+  {
+    "formatted_address": "km4 Pines Park- Lubas Rd, La Trinidad, 2601 Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.44403179999999, "lng": 120.59254910000004 },
+      "viewport": {
+        "south": 16.44273616970849,
+        "west": 120.59122746970843,
+        "north": 16.4454341302915,
+        "east": 120.5939254302915
+      }
+    },
+    "id": "6fdac1b331c953eaed0ebe105ebd1c21bfeacbb5",
+    "name": "POLICE COMMUNITY PRECINT 1",
+    "place_id": "ChIJj_Q5vcCjkTMRsd7hHsTTswI",
+    "rating": 4,
+    "review": {
+      "author_name": "Saon Sawhagwil",
+      "author_url": "https://www.google.com/maps/contrib/111724525450421236152/reviews",
+      "profile_photo_url": "https://lh3.googleusercontent.com/-YBMF6zDmSWA/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reALtdEExJ6WJ_y0U5i3eJa1WbsAw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "",
+      "time": 1481177257
+    },
+    "image": "assets/img/background/police.jpg"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "apps" : [{
+    "name"        : "btg",
+    "script"      : "./app.js",
+    "watch"       : false,
+    "instance_var": "INSTANCE_ID"
+  }]
+}

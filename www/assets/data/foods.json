@@ -1,0 +1,173 @@
+[
+  {
+    "id": "Homemade green tea ice cream",
+    "name": "Homemade green tea ice cream",
+    "place_id": "Chaya",
+    "rating": 100,
+    "review": { "text": "Japanese restaurant Chaya serves rich, authentic Japanese fare, from fresh tuna and salmon sashimi, to crisp vegetable and seafood tempura. But it is their homemade green tea ice cream – a small serving of which comes complimentary at the end of every meal – that really takes the cake. Served with red beans and, in the case of the Cream Anmitsu, a generous serving of fruits in season, the green tea ice cream makes for the perfectly refreshing cap to a classic Chaya meal." },
+    "image": "assets/img/foods/Homemade green tea ice cream.jpg",
+    "price": "Ador their green tea ice cream with whipped cream on top combined with red beans. It's strong and bitter combo taste attracted me. It's priced for 130 pesos only."
+  },
+  {
+    "id": "Lagud (Strawberry beer)",
+    "name": "Lagud (Strawberry beer)",
+    "place_id": "Baguio Craft Brewery",
+    "rating": 99,
+    "review": { "text": "Baguio’s first craft brewery offers a variety of flavors that will keep both the curious and the avid craft beer fan on their toes." },
+    "image": "assets/img/foods/Lagud (Strawberry beer).jpg",
+    "price": "Try the distinct flavor of the strawberry beer, Lagud, which is highly recommended with the buffalo wings. The price range is from 160 to 230 pesos."
+  },
+  {
+    "id": "Dark beer cheesecake",
+    "name": "Dark beer cheesecake",
+    "place_id": "Ozark Diner",
+    "rating": 98,
+    "review": { "text": "You probably won’t eat cheesecake and down it with beer, but there’s another – nay, more ingenious – way of doing it: the dark beer cheesecake, which you can indulge in at Ozark Diner along Bareng Drive in Bakakeng. And if you’re still up for another slice, also try the Chocolate Siling Labuyo cheesecake (yes, complete with candied chillies on top)." },
+    "image": "assets/img/foods/Dark beer cheesecake.jpg",
+    "price": "The price is ver affordable for only 150 pesos."
+  },
+  {
+    "id": "Balbacua",
+    "name": "Balbacua",
+    "place_id": "Urban Kamote",
+    "rating": 97,
+    "review": { "text": "Balbacua is a Southern Mindanao beef stew dish, slow-cooked for six hours and served with your choice of mountain rice or noodles. Factor in the place’s rustic, artsy ambiance and convenient location and you’ve got yourself your newest Baguio haunt." },
+    "image": "assets/img/foods/Balbacua.jpg",
+    "price": "How far can P50 get you? At Balbacua at the Ili Likha Artist Village along Assumption Road, Baguio’s newest food community, you can get a steaming bowl of balbacua."
+  },
+  {
+    "id": "8-course degustation",
+    "name": "8-course degustation",
+    "place_id": "Mama's Table",
+    "rating": 96,
+    "review": { "text": "Chef Vicky Tinio’s private dining at her home is a celebration of fine food. A bread board preludes the eight-course degustation, and includes freshly baked goods from Baguio kitchens such as Cafe by the Ruins and the Baguio Country Club. These come with Chef Vicky’s own creations – chicken liver paté, artichoke farm spread, semi-cured tomatoes, and blue cheese mousse. The course starts with the amuse bouche, soup, intermezzo 1 (to clear the palate for the next dishes), seafood, intermezzo 2, meat, digestif, and dessert." },
+    "image": "assets/img/foods/8-course degustation.jpg",
+    "price": "There is no menu, and Chef Vicky accommodates only one group a day (minimum of six people in a group to book, at P1,500 per person with 10% service charge). Booking at least a week in advance is required."
+  },
+  {
+    "id": "Lomo Ribs",
+    "name": "Lomo Ribs",
+    "place_id": "Canto Bogchi Joint",
+    "rating": 95,
+    "review": { "text": "It’s easy to see why Canto, a restaurant at the Ketchup Food Community, is always full with diners (with more lining up outside): the lomo ribs, one of the few offerings on its menu, are just mouthwatering." },
+    "image": "assets/img/foods/Lomo Ribs.jpg",
+    "price": "Served with an excellent salad and either mashed potato or rice, it’s hard to believe half a slab goes for only P190. A whole slab – which can probably feed up to three people – is at P270."
+  },
+  {
+    "id": "Death by chocolate cake",
+    "name": "Death by chocolate cake",
+    "place_id": "Hill Station",
+    "rating": 94,
+    "review": { "text": "This dessert sounds very intriguing, doesn’t it? Take one spoonful and wait for all the sensations to register – hot, sweet, and cold – and it’s easy to realize the inspiration behind its name." },
+    "image": "assets/img/foods/Death by chocolate cake.jpg",
+    "price": "Each serving goes for P110, and is available at the Hill Station restaurant along Upper Session Road (Casa Vallejo Building) and at the new Hill Station Bistro at the Camp John Hay Technohub."
+  },
+  {
+    "id": "Chona's Delight",
+    "name": "Chona's Delight",
+    "place_id": "Cafe By The Ruins Dua",
+    "rating": 93,
+    "review": { "text": "Call it a cake, pudding, or whatever — Chona’s Delight, a combination of moist chocolate cake, cream, and still more chocolate, is a piece of sweet heaven inside an unglamorous microwavable container." },
+    "image": "assets/img/foods/Chonas Delight.jpg",
+    "price": "One bowl goes for P130, and there’s also a newer Strawberry Delight variant to try."
+  },
+  {
+    "id": "Pansit Lomi",
+    "name": "Pansit Lomi",
+    "place_id": "456 Restaurant",
+    "rating": 94,
+    "review": { "text": "Perfect for those who want to wash down a hangover (the restaurant, conveniently located along Session Road, is open 24 hours). For good measure, add liberal amounts of the restaurant’s signature chili sauce. Another no-fuss local joint, 456 also offers home-cooked Filipino food and beer." },
+    "image": "assets/img/foods/Pansit Lomi.jpg",
+    "price": "At P100, a bowl of 456 Restaurant’s Pansit Lomi is rich, reliably good, and affordable"
+  },
+  {
+    "id": "Buttered chicken",
+    "name": "Buttered chicken",
+    "place_id": "Good Taste Café & Restaurant",
+    "rating": 95,
+    "review": { "text": "Don’t let Good Taste’s no-fuss, food court ambiance fool you: this old favorite serves up food that’s not only affordable but also very memorable and tasty." },
+    "image": "assets/img/foods/Buttered chicken.jpg",
+    "price": "Most notable of these is their signature Buttered Chicken – sweet and savory, with just the right amount of crispness, this is fried chicken done consistently well. Half a serving, which goes for P145, can feed up to 3 or 4 people."
+  },
+  {
+    "id": "Puto bumbong",
+    "name": "Puto bumbong",
+    "place_id": "Solibao",
+    "rating": 94,
+    "review": { "text": "Available all day, every day, Solibao’s puto bumbong makes everyday Christmas possible. Made with pure ube and topped with generous muscovado sugar, shredded coconut, and a dollop of butter." },
+    "image": "assets/img/foods/Puto bumbong.jpg",
+    "price": "a serving of puto bumbong is always perfect for a cold Baguio evening and it cost only for 100 pesos."
+  },
+  {
+    "id": "Sans rival",
+    "name": "Sans rival",
+    "place_id": "Amare La Cucina",
+    "rating": 93,
+    "review": { "text": "Light, crisp, buttery, and creamy, Sizzling Plate’s Sans Rival makes for the perfect cap to the restaurant’s sizzling steak dishes." },
+    "image": "assets/img/foods/Sans rival.jpg",
+    "price": "Its wafer base makes it a much lighter version of the usually dense cake, and at only P26 a slice, you’ll most likely order second or third helpings. Whole servings are also available at P300."
+  },
+  {
+    "id": "Raisin Bread",
+    "name": "Raisin Bread",
+    "place_id": "ROADHOUSE BARN",
+    "rating": 92,
+    "review": { "text": "You don’t need to be a member of the Baguio Country Club (BCC) to enjoy its famous raisin bread." },
+    "image": "assets/img/foods/Raisin Bread.jpg",
+    "price": "Each freshly baked loaf – rich, dense, and bursting with raisins – goes for P190."
+  },
+  {
+    "id": "Strawberry Taho",
+    "name": "Strawberry Taho",
+    "place_id": "Strawberry Farm",
+    "rating": 101,
+    "review": { "text": "Made from soya beans (fresh soft/ silken tofu), topped with sago pearls or tapioca, and sweetened with generous amounts of strawberry jam instead of the usual arnibal or caramelized sugar syrup." },
+    "image": "assets/img/foods/Strawberry Taho.jpg",
+    "price": "Yummy! Biggest cup of ice cream costs P50. It is P50 well spent! Cup of taho costs from P25 - P40. The strawberry taho in Burnham park is way better than the one we had here. What is worth buying here is the raw honey a small bottle costs P100."
+  },
+  {
+    "id": "Bulalo Steak",
+    "name": "Bulalo Steak",
+    "place_id": "456 Restaurant",
+    "rating": 92,
+    "review": { "text": "Sage takes away the latter and substitutes it for a creamy sauce with gravy on the side which further enhances the bulalo flavor we all have come to love. Yes, it’s different but still manages to hit so close to home." },
+    "image": "assets/img/foods/Bulalo Steak.jpg",
+    "price": "Highly recommended Bulalo steak, price is around 240php served with rice. We thought, It's expensive for one, but the serving is actually good for 2"
+  },
+  {
+    "id": "Baguio Longganisa",
+    "name": "Baguio Longganisa",
+    "place_id": "Amare La Cucina",
+    "rating": 92,
+    "review": { "text": "The taste and meat quality is noticeable and the meat is very tender,  you can taste all the natural spices put into it" },
+    "image": "assets/img/foods/Baguio Longganisa.jpg",
+    "price": "No extenders, no MSG, no preservatives for a very good price of Php 130 only!"
+  },
+  {
+    "id": "Patatim",
+    "name": "Patatim",
+    "place_id": "456 Restaurant",
+    "rating": 92,
+    "review": { "text": "I love patatim and this place has ample serving. Tender and falling off the bone ;) Love the artsy decor and the accommodating waiters & staff." },
+    "image": "assets/img/foods/Patatim.jpg",
+    "price": "reat Food! Had a great time with my friends. I'd love to recommend this to all the customers with half serving for Php259 and whole for Php499."
+  },
+  {
+    "id": "Strawberry Shortcake",
+    "name": "Strawberry Shortcake",
+    "place_id": "Chocolate de Batirol",
+    "rating": 92,
+    "review": { "text": "Strawberry shortcake, Decadent Chocolate cake--the best! Never missed a chance whenever we are in Baguio." },
+    "image": "assets/img/foods/Strawberry Shortcake.jpg",
+    "price": "The strawberry shortcake is to die for, the food is worth it for the price of 80 pesos per slice and 375 pesos for a small whole cake"
+  },
+  {
+    "id": "Hot Chocolate",
+    "name": "Hot Chocolate",
+    "place_id": "Good Taste Café & Restaurant",
+    "rating": 92,
+    "review": { "text": "This hot chocolate is very good and the turons are really good too. It seems they have lots of other food items but we just came for the hot chocolate, turons and i think biko: our driver highly recommended this restaurant for that." },
+    "image": "assets/img/foods/Hot Chocolate.jpg",
+    "price": "The 80 pesos signature drink was excellent! Definitely will go back next year."
+  }
+]

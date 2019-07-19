@@ -1,0 +1,51 @@
+<!-- CONTENT -->
+<div id="Content">
+  <div id="content-left" class="container">
+    <div class="pt-3 text-center hidden-xs">
+      <h2>{{ "tourist spots" | titlecase }}</h2>
+      <div class="input-group col-md-12">
+        <input
+          class="form-control py-2"
+          type="search"
+          value="Search for a Tourist Spot"
+          [(ngModel)]="searchFilter.name"
+        />
+        <span class="input-group-append">
+          <button class="btn btn-outline-secondary" type="button">
+            <i class="fa fa-search"></i>
+          </button>
+        </span>
+      </div>
+      <hr class="spacer spacer-sm" />
+    </div>
+
+    <div class="pl-4 pb-3">
+      <small>MOST POPULAR</small>
+    </div>
+
+    <div class="category-grid row tight">
+      <div
+        class="category-grid-item2 col-xs-12 col-sm-12"
+        *ngFor="
+          let ts of (tourist_spots | filterBy: searchFilter | orderBy: 'rating' : true); let i = index
+        "
+        [routerLink]="[ '/tourist-spots-details', ts.place_id ]"
+      >
+        <div
+          class="wrapper"
+          [ngStyle]="{
+            'background-image': 'url(\'' + ts.image + '\')'
+          }"
+        >
+          <button type="button" class="text-center" style="border-radius: 0px;">
+            <p class="category-name display-4">
+              <b>{{ ts.name }}</b>
+            </p>
+            <p></p>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- /CONTENT -->

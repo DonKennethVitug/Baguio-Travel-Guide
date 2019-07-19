@@ -1,0 +1,211 @@
+<!-- CONTENT -->
+<br />
+<div id="Content">
+  <div class="container">
+    <div class="coupon-list row tight">
+      <!-- COUPON ITEM -->
+      <div class="coupon-item col-12 offset-0 col-sm-8 offset-sm-2">
+        <div class="wrapper">
+          <div class="row tighter" *ngIf="place_details !== undefined">
+            <div class="coupon-name col-12">
+              <h3>
+                <span class="qpons-red">{{
+                  place_details.name | titlecase
+                }}</span>
+              </h3>
+            </div>
+          </div>
+
+          <div class="tighter" *ngIf="place_details !== undefined">
+            <div class="coupon-image col-xs-12" *ngIf="place_details.image !== undefined">
+              <div
+                [ngStyle]="{
+                  'background-image':
+                    'url(\'' + place_details.image + '\')'
+                }"
+                class="square-image"
+              ></div>
+            </div>
+
+            <div class="coupon-details col-xs-7 pt-2">
+              <div class="coupon-information small">
+                <div class="information-item">
+                  <div class="information-item-label small text-uppercase">
+                    Location
+                  </div>
+                  <div class="information-item-value">
+                    {{ place_details.formatted_address }}
+                  </div>
+                </div>
+
+                <div class="information-item" *ngIf="+place_details.rating > 0">
+                  <div class="information-item-label small text-uppercase">
+                    Popularity
+                  </div>
+                  <div class="information-item-value">
+                    {{ place_details.rating }}
+                  </div>
+                </div>
+
+                <div
+                  class="information-item"
+                  *ngIf="place_details.contact"
+                >
+                  <div class="information-item-label small text-uppercase">
+                    Contact
+                  </div>
+                  <a href="javascript:void(0)" (click)="callNumber(place_details.contact)" class="information-item-value">
+                    {{ place_details.contact }}
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="tighter">
+            <div
+              class="coupon-description col-12"
+              *ngIf="place_details !== undefined"
+            >
+              <h5 class="description-heading" *ngIf="place_details.history !== undefined">History</h5>
+              <div class="description-body small" *ngIf="place_details.history !== undefined">
+                {{ place_details.history }}
+              </div>
+            </div>
+            
+            <div
+              class="coupon-description col-12"
+              *ngIf="place_details !== undefined"
+            >
+              <h5 class="description-heading" *ngIf="place_details.review !== undefined">Why you should buy here?</h5>
+              <div class="description-body small" *ngIf="place_details.review !== undefined">
+                {{ place_details.review.text }}
+              </div>
+            </div>
+
+            <hr class="spacer spacer-sm" />
+
+            <!-- COUPON MAP WITH DIRECTIONS FORM -->
+            <div class="coupon-map col-12">
+              <h5 class="map-heading">Location &amp; Directions</h5>
+
+              <div class="map-form row tighter">
+                <div class="col-sm-6">
+                  <div class="input-group input-group-sm">
+                    <span class="input-group-prepend">
+                      <button
+                        class="btn btn-secondary"
+                        type="button"
+                        (click)="findMe()"
+                      >
+                        <i class="fa fa-location-arrow"></i>
+                        <span class="d-none d-md-inline">Find Me</span>
+                      </button>
+                    </span>
+
+                    <input
+                      ngx-google-places-autocomplete
+                      [options]="google_options"
+                      (onAddressChange)="onAddressChange($event)"
+                      name="location_address"
+                      type="text"
+                      class="form-control"
+                      placeholder="Start"
+                      [(ngModel)]="location.address"
+                    />
+                  </div>
+
+                  <hr class="spacer spacer-xs" />
+                </div>
+
+                <div class="col-sm-6">
+                  <div class="input-group input-group-sm">
+                    <input
+                      *ngIf="place_details !== undefined"
+                      name="location_address"
+                      type="text"
+                      class="form-control"
+                      placeholder="Destination"
+                      [value]="place_details.formatted_address"
+                      disabled
+                    />
+
+                    <span class="input-group-append">
+                      <button
+                        class="btn btn-secondary"
+                        type="button"
+                        (click)="getDirection()"
+                      >
+                        <i class="fa fa-arrow-circle-right"></i>
+                        <span class="d-none d-md-inline">Directions</span>
+                      </button>
+                    </span>
+                  </div>
+
+                  <hr class="spacer spacer-xs" />
+                </div>
+              </div>
+
+              <div class="map-responsive-2" id="place_details_map"></div>
+            </div>
+            <!-- /COUPON MAP WITH DIRECTIONS FORM -->
+
+            <span *ngIf="place_details !== undefined">
+              <div
+                class="coupon-description col-12"
+                *ngIf="place_details.legs"
+              >
+              <hr class="spacer spacer-sm" />
+                <h5 class="information-heading">Routes</h5>
+                <div
+                  class="information-item"
+                  *ngFor="
+                    let leg of place_details.legs; let i = index
+                  "
+                >
+                <hr>
+                  <div class="information-item-label small text-uppercase" style="font-weight: bold">
+                    Route {{i+1}}
+                  </div>
+                  <div class="information-item-value">
+                    start: {{ leg.start_address }}<br>
+                    end: {{ leg.end_address }}<br>
+                    distance: {{ leg.distance.text }}<br>
+                    duration: {{ leg.duration.text }}
+                  </div>
+                </div>
+                <hr>
+              </div></span
+            >
+
+            <div
+              class="coupon-details col-12"
+              *ngIf="place_details !== undefined"
+            >
+              <div class="coupon-information small" *ngIf="place_details.opening_hours !== undefined">
+                  <hr class="spacer spacer-sm" />
+                <h5 class="information-heading">Business Hours</h5>
+                <div
+                  class="information-item"
+                  *ngFor="
+                    let opening_hour of place_details.opening_hours.periods
+                  "
+                >
+                  <div class="information-item-label small text-uppercase">
+                    {{ getDay(opening_hour.open.day) | titlecase }}
+                  </div>
+                  <div class="information-item-value">
+                    {{ opening_hour.open.nextDate | date: "shortTime" }}
+                    &#x2013;
+                    {{ opening_hour.close.nextDate | date: "shortTime" }}
+                  </div>
+                </div>
+              </div>
+              <hr class="spacer spacer-sm" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /CONTENT -->
+</div>

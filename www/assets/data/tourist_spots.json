@@ -1,0 +1,4160 @@
+[
+  {
+    "formatted_address": "Leonard Wood Rd, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.411101, "lng": 120.60471830000006 },
+      "viewport": {
+        "south": 16.4098450697085,
+        "west": 120.60329631970853,
+        "north": 16.4125430302915,
+        "east": 120.6059942802915
+      }
+    },
+    "id": "1f25d5deed8733d882c4b49daf3c5817bde3372d",
+    "name": "Bamboo Art Exhibit",
+    "place_id": "ChIJ6VQCzUShkTMRGQpj8u_i_sE",
+    "rating": 3.1,
+    "review": {
+      "author_name": "Kenneth TUMALIP",
+      "author_url": "https://www.google.com/maps/contrib/107688649632746147359/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh5.googleusercontent.com/-uhbFERzVLXY/AAAAAAAAAAI/AAAAAAAAKXg/48AbV6VwwYM/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+      "rating": 1,
+      "relative_time_description": "a week ago",
+      "text": "If you want to experience the feeling of entering a haunted house forget about it. This is now CLOSED.",
+      "time": 1551912699
+    },
+    "image": "assets/img/tourist-spots/bamboo-art-exhibit.jpg",
+    "history": "Baguio City's famed White House was the ancestral home of the Laperal Family. Some time after it was abandoned, word spread that it was haunted, and that strange noises emanate from its premises at night and that spirits could be seen moving around. Late last year (2013), it was converted and transformed into what is now reportedly the country's first and only BAMBOO MUSEUM, housing incredible works of art done on bamboo poles by skilled Ifugao craftsmen. It is indeed almost inconceivable how these extremely talented wood carvers (led by low-key ROLDAN PAIT of the Asin Bamboo Carvers Guild) were able to do such intricate and detailed works on singular bamboo poles. You really have to see it to believe it. With an entrance fee of just fifty pesos, there simply is no reason for you not to go there. Picture-taking is allowed. And visitors are even permitted to explore the upper floors of this erstwhile haunted house. Who knows, there might be some spirits still lurking there. Surely, you don’t want to miss Baguio's newest attraction!"
+  },
+  {
+    "formatted_address": "Igorot Park, Camp John Hay, Baguio, 2600 Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4055052, "lng": 120.61655459999997 },
+      "viewport": {
+        "south": 16.4040927197085,
+        "west": 120.6151920197085,
+        "north": 16.4067906802915,
+        "east": 120.61788998029147
+      }
+    },
+    "id": "c4c266f6f6815f121a7d00f459996e8344e257c0",
+    "name": "Chocolate de Batirol",
+    "place_id": "ChIJJ0qNW0yhkTMR1RCPD4WCJI0",
+    "rating": 3.8,
+    "review": {
+      "author_name": "Ram nico Cinco",
+      "author_url": "https://www.google.com/maps/contrib/108022260480788750547/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh5.googleusercontent.com/-xym0WCqgC64/AAAAAAAAAAI/AAAAAAAAAUQ/DyShz93UMNg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "I didn't have enough photos as I was enjoying my hot chocolate and food. Their hot choco tastes different than the Swiss Miss you drink. It doesn't have milk or sugar. Just pure cocoa but its actually really good. I highly recommend visiting this place.",
+      "time": 1549386754
+    },
+    "image": "assets/img/tourist-spots/chocolate-de-batirol.jpg",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100",
+            "hours": 21,
+            "minutes": 0,
+            "nextDate": 1552827600000
+          },
+          "open": {
+            "day": 0,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1552780800000
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100",
+            "hours": 21,
+            "minutes": 0,
+            "nextDate": 1552914000000
+          },
+          "open": {
+            "day": 1,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1552867200000
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100",
+            "hours": 21,
+            "minutes": 0,
+            "nextDate": 1553000400000
+          },
+          "open": {
+            "day": 2,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1552953600000
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100",
+            "hours": 21,
+            "minutes": 0,
+            "nextDate": 1553086800000
+          },
+          "open": {
+            "day": 3,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1553040000000
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100",
+            "hours": 21,
+            "minutes": 0,
+            "nextDate": 1553173200000
+          },
+          "open": {
+            "day": 4,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1553126400000
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100",
+            "hours": 21,
+            "minutes": 0,
+            "nextDate": 1553259600000
+          },
+          "open": {
+            "day": 5,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1553212800000
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100",
+            "hours": 21,
+            "minutes": 0,
+            "nextDate": 1552741200000
+          },
+          "open": {
+            "day": 6,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1552694400000
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 9:00 PM",
+        "Tuesday: 8:00 AM – 9:00 PM",
+        "Wednesday: 8:00 AM – 9:00 PM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 9:00 PM",
+        "Sunday: 8:00 AM – 9:00 PM"
+      ]
+    },
+    "website": "http://chocolatedebatirol.com/",
+    "history": "Established in 1996, Choco-Late' de Batirol is one of the most recognized restaurants in the Summer Capital of the Philippines. They're known for their namesake, a classic Filipino drink called the choco-late de batirol. It's made from fresh cacao, the main ingredient in making chocolate.",
+    "formatted_phone_number": "0916 375 6510"
+  },
+  {
+    "formatted_address": "Baguio - La Trinidad - Bontoc Rd, Baguio, 2601 Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4333286, "lng": 120.59723699999995 },
+      "viewport": {
+        "south": 16.4319630697085,
+        "west": 120.59581416970855,
+        "north": 16.4346610302915,
+        "east": 120.59851213029151
+      }
+    },
+    "id": "4b8648dac62aba24c1446eea2df07a9ff6f68873",
+    "name": "Valley of Colors",
+    "place_id": "ChIJo7Bd_uejkTMRRTZ964PVlJs",
+    "rating": 3.8,
+    "review": {
+      "author_name": "Lea Nel Gomez",
+      "author_url": "https://www.google.com/maps/contrib/111442551536901520692/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh5.googleusercontent.com/-Ff1VSCvrL8Q/AAAAAAAAAAI/AAAAAAAAAJk/Z8xAia-3Iq8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+      "rating": 3,
+      "relative_time_description": "in the last week",
+      "text": "It is a nice spot for a photo. Good thing that you cant capture the smell. If you plan to go here, might as well go to strawberry farm after. Since, you already braved the traffic on seeing this place. Several more and you'll be at the strawberry farm.",
+      "time": 1552606904
+    },
+    "image": "assets/img/tourist-spots/valley-of-colors.jpg",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000",
+            "hours": 0,
+            "minutes": 0,
+            "nextDate": 1552752000000
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "history": "The Valley of Colors is composed of three villages transformed from drab sights to a tourist attraction. These include the Stone Hill, Sadjap, and Batiwtiw. Since the project started in January of last year, over 180 houses were painted in bright colors and thus created a giant mural."
+  },
+  {
+    "formatted_address": "Camp John Hay, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.399435, "lng": 120.61699750000002 },
+      "viewport": {
+        "south": 16.3979831697085,
+        "west": 120.61564656970847,
+        "north": 16.4006811302915,
+        "east": 120.61834453029155
+      }
+    },
+    "id": "a94f95897abd9b0f1dcce93e7c511ed251be5c0e",
+    "name": "Cemetery Of Negativism",
+    "place_id": "ChIJI7rOYkqhkTMRiWvxathqjys",
+    "rating": 3.9,
+    "review": {
+      "author_name": "Jay Lord",
+      "author_url": "https://www.google.com/maps/contrib/104894818718593564456/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh5.googleusercontent.com/-hDQNCXDnIxg/AAAAAAAAAAI/AAAAAAAAEvA/Q17d2VDSAkM/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+      "rating": 4,
+      "relative_time_description": "in the last week",
+      "text": "What makes me want to come back here over and over again is the concept of this place. I do, ironically, find solemn here and it's very calming walking around reading the head stones and making you realize things. The aesthetic kinda sucks but then again, the concept and uniqueness of this place turned me all around(ano daw?! Lol)",
+      "time": 1552471704
+    },
+    "image": "assets/img/tourist-spots/cemetery-of-negativism.jpg",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1552816800000
+          },
+          "open": {
+            "day": 0,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1552784400000
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1552903200000
+          },
+          "open": {
+            "day": 1,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1552870800000
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1552989600000
+          },
+          "open": {
+            "day": 2,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1552957200000
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1553076000000
+          },
+          "open": {
+            "day": 3,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1553043600000
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1553162400000
+          },
+          "open": {
+            "day": 4,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1553130000000
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1553248800000
+          },
+          "open": {
+            "day": 5,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1553216400000
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1552730400000
+          },
+          "open": {
+            "day": 6,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1552698000000
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: 9:00 AM – 6:00 PM"
+      ]
+    },
+    "history": "It's the Cemetery of Negativism also called the Lost Cemetery found near the historical core of Camp John Hay, Baguio. Written on the entrance of the Cemetery of Negativism: “Negativism is man's greatest self imposed infliction, his most limiting factor, his heaviest burden."
+  },
+  {
+    "formatted_address": "Dot-PTA Complex, Gov. Pack Rd, Baguio, 2600 Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.407032, "lng": 120.59843599999999 },
+      "viewport": {
+        "south": 16.4057664697085,
+        "west": 120.59692056970857,
+        "north": 16.4084644302915,
+        "east": 120.59961853029154
+      }
+    },
+    "id": "fe236b6ebf93a7681766a792304896d41bd3c4c1",
+    "name": "Baguio Museum",
+    "place_id": "ChIJ-Z4cIEKhkTMRAkDMgmqq3UQ",
+    "rating": 3.9,
+    "review": {
+      "author_name": "Katrina Ganon",
+      "author_url": "https://www.google.com/maps/contrib/107196748390040884392/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/-JIrQ5-h7Blo/AAAAAAAAAAI/AAAAAAAAADQ/dX8SS-r1ubE/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+      "rating": 3,
+      "relative_time_description": "3 months ago",
+      "text": "This place has a lot of interesting historical knowledge regarding Baguio City. The ones that caught my interest are the mummy and the scale maps of Baguio.\n\nSad thing though that the place is not well lit. Some floors are undergoing reconstruction as well. Some items are not displayed properly too.  \n\nEntrance is 40 per person. Students have discount I think or are free.",
+      "time": 1544283221
+    },
+    "image": "assets/img/tourist-spots/baguio-museum.jpg",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1552813200000
+          },
+          "open": {
+            "day": 0,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1552784400000
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1552986000000
+          },
+          "open": {
+            "day": 2,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1552957200000
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1553072400000
+          },
+          "open": {
+            "day": 3,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1553043600000
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1553158800000
+          },
+          "open": {
+            "day": 4,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1553130000000
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1553245200000
+          },
+          "open": {
+            "day": 5,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1553216400000
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1552726800000
+          },
+          "open": {
+            "day": 6,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1552698000000
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ]
+    },
+    "website": "https://baguio-museum-inc.business.site/",
+    "history": "Baguio Museum stands for, upholds, and embodies the cultural and historical heritage of Baguio City. Inspired by Ifugao architecture, the museum is made of stone and wood featuring a striking pyramid roof and two huge concrete poles at the stair entrance that resembles a traditional Ifugao home with an elevated floor supported by posts. This time-honored museum was built in 1975 at the corner of Governor Pack Road and Harrison Road. It was hit by a major earthquake in 1990 but was rebuilt after a decade to continue its purpose.",
+    "formatted_phone_number": "(063) 444 7451"
+  },
+  {
+    "formatted_address": "Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4066205, "lng": 120.6000315 },
+      "viewport": {
+        "south": 16.4052455197085,
+        "west": 120.5988662197085,
+        "north": 16.4079434802915,
+        "east": 120.60156418029146
+      }
+    },
+    "id": "8655af59ae0b8aa5be81f65891cc56759bf044df",
+    "name": "Sky Ranch Baguio",
+    "place_id": "ChIJZQSzM8-hkTMRyRJETgnAP7o",
+    "rating": 3.9,
+    "review": {
+      "author_name": "sheherazade macusi",
+      "author_url": "https://www.google.com/maps/contrib/100563699583131569621/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh5.googleusercontent.com/-P-COCNg362c/AAAAAAAAAAI/AAAAAAAAAEs/fuALooW574s/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+      "rating": 4,
+      "relative_time_description": "in the last week",
+      "text": "A good place to hang out with your loved ones especially with the kids if you're visiting Baguio. It's new so the amenities are good.",
+      "time": 1552226002
+    },
+    "image": "assets/img/tourist-spots/sky-ranch-baguio.jpg",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200",
+            "hours": 22,
+            "minutes": 0,
+            "nextDate": 1552831200000
+          },
+          "open": {
+            "day": 0,
+            "time": "1000",
+            "hours": 10,
+            "minutes": 0,
+            "nextDate": 1552788000000
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200",
+            "hours": 22,
+            "minutes": 0,
+            "nextDate": 1552917600000
+          },
+          "open": {
+            "day": 1,
+            "time": "1000",
+            "hours": 10,
+            "minutes": 0,
+            "nextDate": 1552874400000
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200",
+            "hours": 22,
+            "minutes": 0,
+            "nextDate": 1553004000000
+          },
+          "open": {
+            "day": 2,
+            "time": "1000",
+            "hours": 10,
+            "minutes": 0,
+            "nextDate": 1552960800000
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200",
+            "hours": 22,
+            "minutes": 0,
+            "nextDate": 1553090400000
+          },
+          "open": {
+            "day": 3,
+            "time": "1000",
+            "hours": 10,
+            "minutes": 0,
+            "nextDate": 1553047200000
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200",
+            "hours": 22,
+            "minutes": 0,
+            "nextDate": 1553176800000
+          },
+          "open": {
+            "day": 4,
+            "time": "1000",
+            "hours": 10,
+            "minutes": 0,
+            "nextDate": 1553133600000
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200",
+            "hours": 22,
+            "minutes": 0,
+            "nextDate": 1553263200000
+          },
+          "open": {
+            "day": 5,
+            "time": "1000",
+            "hours": 10,
+            "minutes": 0,
+            "nextDate": 1553220000000
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200",
+            "hours": 22,
+            "minutes": 0,
+            "nextDate": 1552744800000
+          },
+          "open": {
+            "day": 6,
+            "time": "1000",
+            "hours": 10,
+            "minutes": 0,
+            "nextDate": 1552701600000
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 10:00 PM",
+        "Tuesday: 10:00 AM – 10:00 PM",
+        "Wednesday: 10:00 AM – 10:00 PM",
+        "Thursday: 10:00 AM – 10:00 PM",
+        "Friday: 10:00 AM – 10:00 PM",
+        "Saturday: 10:00 AM – 10:00 PM",
+        "Sunday: 10:00 AM – 10:00 PM"
+      ]
+    },
+    "history": "Sky Ranch opened with 12 rides including the Super Viking, Drop Tower, Carousel, Sky Cruiser, and Baguio Eye. ... The towering Baguio Eye which rises about 50 meters tall and 45 meters in diameter really catches everyone's attention especially during the night as it rotates with running colorfulights.",
+    "formatted_phone_number": "0915 476 0571"
+  },
+  {
+    "formatted_address": "Baguio, 2600 Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.3827233, "lng": 120.56827729999998 },
+      "viewport": {
+        "south": 16.3813314197085,
+        "west": 120.56692656970847,
+        "north": 16.3840293802915,
+        "east": 120.56962453029155
+      }
+    },
+    "id": "c416aef412a78a5b4eb5e38991ce3a00c174e437",
+    "name": "Green Valley Country Club",
+    "place_id": "ChIJdy9u81OgkTMRTB4Ut8-Nmuw",
+    "rating": 3.9,
+    "review": {
+      "author_name": "abraham ciano",
+      "author_url": "https://www.google.com/maps/contrib/102622210917934963859/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/-o0cI_zU9rPE/AAAAAAAAAAI/AAAAAAAAAXU/Iau7OIth01k/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "It's a good place to stay and good food also at the restaurant",
+      "time": 1551988870
+    },
+    "image": "assets/img/tourist-spots/green-valley-country-club.jpg",
+    "history": "Green Valley (Baguio) Hotel and Resort, Inc. was originally established and organized in December 1975 as The Green Valley Country Club, a club exclusively for its members and their dependents and guests. It remained as a country club until 1990 when an earthquake destroyed practically all hotels in Baguio City",
+    "formatted_phone_number": "(074) 442 7286"
+  },
+  {
+    "formatted_address": "Magsaysay Ave, Baguio, 2600 Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4152476, "lng": 120.59554739999999 },
+      "viewport": {
+        "south": 16.4138810197085,
+        "west": 120.5942677697085,
+        "north": 16.4165789802915,
+        "east": 120.59696573029146
+      }
+    },
+    "id": "11e27e299e3f4ee8007a3533adeee8959d701dfc",
+    "name": "Baguio City Public Market",
+    "place_id": "ChIJTc4JcGehkTMRJ-Q_xgjq4dM",
+    "rating": 4,
+    "review": {
+      "author_name": "Thomas Stinson",
+      "author_url": "https://www.google.com/maps/contrib/104893899881792739279/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/-KCHqIrXiLPc/AAAAAAAAAAI/AAAAAAAAM64/0Lyp7hw_f4U/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "This market is pretty darn cool. We got some amazing stuff for really low prices and I love the food the vendors are selling. Lots of fun to hang out here.",
+      "time": 1552066463
+    },
+    "image": "assets/img/tourist-spots/baguio-city-public-market.jpg",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000",
+            "hours": 0,
+            "minutes": 0,
+            "nextDate": 1552752000000
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "website": "https://baguiopublicmarket.blogspot.com/",
+    "history": "The Baguio City Market is one of the most interesting public markets in the Philippines. It is crowded and lively, and offers many fascinating locally-made items from Baguio and the provinces of Benguet, La Union, Pangasinan, etc.",
+    "formatted_phone_number": "0923 354 3888"
+  },
+  {
+    "formatted_address": "Harrison Rd, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4130153, "lng": 120.5952287 },
+      "viewport": {
+        "south": 16.4116654197085,
+        "west": 120.5938788197085,
+        "north": 16.4143633802915,
+        "east": 120.59657678029157
+      }
+    },
+    "id": "41ad060d44877df295c1a4b8651b978798de2758",
+    "name": "Baguio Night Market",
+    "place_id": "ChIJvbe53mehkTMR8T_ioyknfYk",
+    "rating": 4,
+    "review": {
+      "author_name": "Sono SiLasiel",
+      "author_url": "https://www.google.com/maps/contrib/116230505792689837431/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh6.googleusercontent.com/-7-fYikfSKdI/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rd_6aca8UDGEDFyBXk2ERu3sGRnDg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "One of the best places to eat fried cat fish or squid. Fresh food and lovely environment with a lot of people. Quite enjoyable",
+      "time": 1550851253
+    },
+    "image": "assets/img/tourist-spots/baguio-night-market.jpg",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000",
+            "hours": 0,
+            "minutes": 0,
+            "nextDate": 1552838400000
+          },
+          "open": {
+            "day": 0,
+            "time": "2100",
+            "hours": 21,
+            "minutes": 0,
+            "nextDate": 1552827600000
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0600",
+            "hours": 6,
+            "minutes": 0,
+            "nextDate": 1552946400000
+          },
+          "open": {
+            "day": 1,
+            "time": "2100",
+            "hours": 21,
+            "minutes": 0,
+            "nextDate": 1552914000000
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0600",
+            "hours": 6,
+            "minutes": 0,
+            "nextDate": 1553032800000
+          },
+          "open": {
+            "day": 2,
+            "time": "2100",
+            "hours": 21,
+            "minutes": 0,
+            "nextDate": 1553000400000
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0600",
+            "hours": 6,
+            "minutes": 0,
+            "nextDate": 1553119200000
+          },
+          "open": {
+            "day": 3,
+            "time": "2100",
+            "hours": 21,
+            "minutes": 0,
+            "nextDate": 1553086800000
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0600",
+            "hours": 6,
+            "minutes": 0,
+            "nextDate": 1553205600000
+          },
+          "open": {
+            "day": 4,
+            "time": "2100",
+            "hours": 21,
+            "minutes": 0,
+            "nextDate": 1553173200000
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0600",
+            "hours": 6,
+            "minutes": 0,
+            "nextDate": 1552687200000
+          },
+          "open": {
+            "day": 5,
+            "time": "2100",
+            "hours": 21,
+            "minutes": 0,
+            "nextDate": 1553259600000
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0600",
+            "hours": 6,
+            "minutes": 0,
+            "nextDate": 1552773600000
+          },
+          "open": {
+            "day": 6,
+            "time": "2100",
+            "hours": 21,
+            "minutes": 0,
+            "nextDate": 1552741200000
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 PM – 6:00 AM",
+        "Tuesday: 9:00 PM – 6:00 AM",
+        "Wednesday: 9:00 PM – 6:00 AM",
+        "Thursday: 9:00 PM – 6:00 AM",
+        "Friday: 9:00 PM – 6:00 AM",
+        "Saturday: 9:00 PM – 6:00 AM",
+        "Sunday: 9:00 PM – 12:00 AM"
+      ]
+    },
+    "website": "https://www.facebook.com/baguionightmarket/",
+    "history": "There are myriad of items to buy in Baguio Night Market, and it never fails to attract customers and travelers. Products offered here ranges from bags, footwear, clothing, and digital accessories. There are also souvenir items that you can buy in this place, even kitchenware too."
+  },
+  {
+    "formatted_address": "Country Club Rd, Camp John Hay, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4079359, "lng": 120.61579240000003 },
+      "viewport": {
+        "south": 16.40663781970849,
+        "west": 120.61453846970858,
+        "north": 16.4093357802915,
+        "east": 120.61723643029154
+      }
+    },
+    "id": "52fd83ff53e8fbd7fa2dcb93c2827efd459cbedd",
+    "name": "Baguio Country Club Christmas Village",
+    "place_id": "ChIJaehEtE2hkTMR9up3cffMA6I",
+    "rating": 4,
+    "review": {
+      "author_name": "Perseus Pangaliman",
+      "author_url": "https://www.google.com/maps/contrib/108027498609490904086/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh4.googleusercontent.com/-85vE7Ee7GEc/AAAAAAAAAAI/AAAAAAAAAQA/bbRFJ51vecQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+      "rating": 3,
+      "relative_time_description": "a month ago",
+      "text": "I would have rated it higher. Maybe this will help in improving the famous Christmas village. I hope they improve their snow machine and not use soap suds, it is a bit disappointing and mediocre. It is also a bit crowded since the space is small and cramped. But overall, it is a nice place to visit during the holiday season.",
+      "time": 1548058643
+    },
+    "image": "assets/img/tourist-spots/baguio-country-club-christmas-village.jpg",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300",
+            "hours": 23,
+            "minutes": 0,
+            "nextDate": 1552834800000
+          },
+          "open": {
+            "day": 0,
+            "time": "1000",
+            "hours": 10,
+            "minutes": 0,
+            "nextDate": 1552788000000
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200",
+            "hours": 22,
+            "minutes": 0,
+            "nextDate": 1552917600000
+          },
+          "open": {
+            "day": 1,
+            "time": "1400",
+            "hours": 14,
+            "minutes": 0,
+            "nextDate": 1552888800000
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200",
+            "hours": 22,
+            "minutes": 0,
+            "nextDate": 1553004000000
+          },
+          "open": {
+            "day": 2,
+            "time": "1400",
+            "hours": 14,
+            "minutes": 0,
+            "nextDate": 1552975200000
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200",
+            "hours": 22,
+            "minutes": 0,
+            "nextDate": 1553090400000
+          },
+          "open": {
+            "day": 3,
+            "time": "1400",
+            "hours": 14,
+            "minutes": 0,
+            "nextDate": 1553061600000
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200",
+            "hours": 22,
+            "minutes": 0,
+            "nextDate": 1553176800000
+          },
+          "open": {
+            "day": 4,
+            "time": "1400",
+            "hours": 14,
+            "minutes": 0,
+            "nextDate": 1553148000000
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300",
+            "hours": 23,
+            "minutes": 0,
+            "nextDate": 1553266800000
+          },
+          "open": {
+            "day": 5,
+            "time": "1000",
+            "hours": 10,
+            "minutes": 0,
+            "nextDate": 1553220000000
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300",
+            "hours": 23,
+            "minutes": 0,
+            "nextDate": 1552748400000
+          },
+          "open": {
+            "day": 6,
+            "time": "1000",
+            "hours": 10,
+            "minutes": 0,
+            "nextDate": 1552701600000
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 2:00 – 10:00 PM",
+        "Tuesday: 2:00 – 10:00 PM",
+        "Wednesday: 2:00 – 10:00 PM",
+        "Thursday: 2:00 – 10:00 PM",
+        "Friday: 10:00 AM – 11:00 PM",
+        "Saturday: 10:00 AM – 11:00 PM",
+        "Sunday: 10:00 AM – 11:00 PM"
+      ]
+    },
+    "website": "https://www.facebook.com/baguiocountryclubxmasvillage/",
+    "history": "As in the past, the highly acclaimed Christmas Village located across the country club’s main gate will showcase recycled materials – used materials from the club's daily operations – that have been turned into beautiful Christmas decorations.",
+    "formatted_phone_number": "(074) 619 2050"
+  },
+  {
+    "formatted_address": "Baguio, 2602 Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4128919, "lng": 120.59241500000007 },
+      "viewport": {
+        "south": 16.4115600197085,
+        "west": 120.59105856970848,
+        "north": 16.4142579802915,
+        "east": 120.59375653029156
+      }
+    },
+    "id": "00c9c7815148f361ac2435ce7cd6356b01526c68",
+    "name": "Rizal Park",
+    "place_id": "ChIJ2TJ5mGihkTMRsxUYZoq7ErA",
+    "rating": 4,
+    "review": {
+      "author_name": "angel del rosario",
+      "author_url": "https://www.google.com/maps/contrib/117360079106858158291/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh4.googleusercontent.com/-CfrDUjohwcw/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reV3O1LmHkNaW48tF0Tarzg4hNapw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+      "rating": 1,
+      "relative_time_description": "2 months ago",
+      "text": "Its amazing how a small city/town can provide a dedication for our country's national hero. Unfortunately the locals and tourist just dishonor him by making this beautiful place into a big trash bin. Instead of flowers and plants you will see piles of garbage from sticks, placti cups, unfinished foods etc. I hope there would be more trash bins and people who would maintain such magnificent park. Also the exsisting plants needs alot of tender loving care.",
+      "time": 1545198439
+    },
+    "image": "assets/img/tourist-spots/rizal-park.jpg",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000",
+            "hours": 0,
+            "minutes": 0,
+            "nextDate": 1552752000000
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "history": "The execution of Filipino patriot José Rizal on December 30, 1896 fanned the flames of the 1896 Philippine Revolution against the Kingdom of Spain. The area was officially renamed Rizal Park in his honor, and the monument enshrining his remains serves as the park's symbolic focal point."
+  },
+  {
+    "formatted_address": "Mount Kabuyao, Tuba, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.3566667, "lng": 120.55916669999999 },
+      "viewport": {
+        "south": 16.34596,
+        "west": 120.54315930000007,
+        "north": 16.3673728,
+        "east": 120.57517410000003
+      }
+    },
+    "id": "9f62f4424092714b8d136fafe20d949641d22042",
+    "name": "Mount Kabuyao",
+    "place_id": "ChIJD3J9OQugkTMR_quKqzPxEWY",
+    "rating": 4,
+    "review": {
+      "author_name": "Mark James Rivera",
+      "author_url": "https://www.google.com/maps/contrib/106550025913892446071/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/-VgnWn0wyyAg/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcPFIUCaQ7vFWGT0BmlnsIDfmh4EQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+      "rating": 3,
+      "relative_time_description": "4 months ago",
+      "text": "Amazing veiw! :)",
+      "time": 1540199605
+    },
+    "image": "assets/img/tourist-spots/mount-kabuyao.jpg",
+    "history": "Mount Cabuyao (alternatively spelled as Mount Kabuyao) is a mountain in the Philippines located in the municipality of Tuba in the province of Benguet. Its summit, rising to more than 2,000 metres (6,600 ft) above sea level, overlooks the city of Baguio."
+  },
+  {
+    "formatted_address": "beside Rizal Elementary School Gibraltar Road Baguio Benguet PH, Gibraltar Rd, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4159061, "lng": 120.61670370000002 },
+      "viewport": {
+        "south": 16.4145486697085,
+        "west": 120.61504549999995,
+        "north": 16.4172466302915,
+        "east": 120.61775310000007
+      }
+    },
+    "id": "81323d63f515f656e1b19a509d41c252bb33d5fa",
+    "name": "Wright Park",
+    "place_id": "ChIJHVAPuaqmkTMRsGjxiLAaDNY",
+    "rating": 4.1,
+    "review": {
+      "author_name": "Syed Tassaduq Hussain Bukhari",
+      "author_url": "https://www.google.com/maps/contrib/106733313583863738192/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh5.googleusercontent.com/-KcA1Sw_pCXE/AAAAAAAAAAI/AAAAAAAAAHk/DtuKGgyr13U/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "Wright Park\nWright Park is a beautiful small park located in lush green scenic area of Baguio, Philippines. It is named after American Governor Luke Wright. It is adorned with a long reflecting pool lined with pine tree which gives mesmerizing beauty to the Park. An additional charm to the Park is the facility of pony ride and horse racing competition. Right in front of the Park is the Summer House of the President of Philippines called “The Mansion”.",
+      "time": 1552038552
+    },
+    "image": "assets/img/tourist-spots/wright-park.jpg",
+    "history": "Wright Park is named after its architect Governor Luke E. Wright who ordered architect Daniel Burnham to build the place with recreational facility for American soldiers and civilians."
+  },
+  {
+    "formatted_address": "367 Long Long Benguet Rd, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4294968, "lng": 120.57624809999993 },
+      "viewport": {
+        "south": 16.4282120197085,
+        "west": 120.57484706970854,
+        "north": 16.4309099802915,
+        "east": 120.5775450302915
+      }
+    },
+    "id": "70a82c83fdffde2377ee32db9a4991f1ffd319aa",
+    "name": "Tam-awan Village",
+    "place_id": "ChIJP0aG-tSjkTMRr56IllZArzc",
+    "rating": 4.1,
+    "review": {
+      "author_name": "Rohit Khan",
+      "author_url": "https://www.google.com/maps/contrib/117471786679366099702/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/-fHBaxGPbE5Q/AAAAAAAAAAI/AAAAAAAADnk/nh4noiBRNAQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "Awesome historical place. Must visit. Do take the guided tour. Closes like 6 pm in the evening. So plan better.",
+      "time": 1552584181
+    },
+    "image": "assets/img/tourist-spots/tam-awan-village.jpg",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1552816800000
+          },
+          "open": {
+            "day": 0,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1552784400000
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1552903200000
+          },
+          "open": {
+            "day": 1,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1552870800000
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1552989600000
+          },
+          "open": {
+            "day": 2,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1552957200000
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1553076000000
+          },
+          "open": {
+            "day": 3,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1553043600000
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1553162400000
+          },
+          "open": {
+            "day": 4,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1553130000000
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1553248800000
+          },
+          "open": {
+            "day": 5,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1553216400000
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1552730400000
+          },
+          "open": {
+            "day": 6,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1552698000000
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: 9:00 AM – 6:00 PM"
+      ]
+    },
+    "website": "https://www.tam-awanvillage.com/",
+    "history": "Tam-awan Village in Pinsao Proper, Baguio City uniquely blends indigenous aesthetics and exquisite Cordilleran craftsmanship with an artist’s concept for a village adapting to Baguio setting.",
+    "formatted_phone_number": "(074) 446 2949"
+  },
+  {
+    "formatted_address": "Kennon Rd, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.36751569999999, "lng": 120.60603349999997 },
+      "viewport": {
+        "south": 16.3661877197085,
+        "west": 120.60473336970847,
+        "north": 16.3688856802915,
+        "east": 120.60743133029155
+      }
+    },
+    "id": "350b1db34216e821dc770cd93bcdf61bf3433d53",
+    "name": "Lions Head",
+    "place_id": "ChIJYdZEH8WgkTMR7cqKb3gr82A",
+    "rating": 4.1,
+    "review": {
+      "author_name": "touseef zaki",
+      "author_url": "https://www.google.com/maps/contrib/100981336557696676913/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/-T7w1o5mWeW4/AAAAAAAAAAI/AAAAAAAABB0/6JEbQjx8Zzo/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+      "rating": 4,
+      "relative_time_description": "in the last week",
+      "text": "Well the place is very beautiful, I fact the journey down the hill from top of the mountain until this point is beautiful. Due to landslide ahead we could not go beyond this point. Very clean and very good people around, try to click pictures in Baguio traditional dress just next to the lions head",
+      "time": 1552118240
+    },
+    "image": "assets/img/tourist-spots/Lions Head.jpg",
+    "history": "The Lions Head is a statue along Kennon Road, a major highway in Luzon, Philippines that leads to the city of Baguio. Located in Camp 6, the Lion's Head measures 40 ft in height.",
+    "formatted_phone_number": "0935 249 9528"
+  },
+  {
+    "formatted_address": "Burnham Lake, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4107151, "lng": 120.59463819999996 },
+      "viewport": {
+        "south": 16.4093924197085,
+        "west": 120.59330106970856,
+        "north": 16.4120903802915,
+        "east": 120.59599903029152
+      }
+    },
+    "id": "633f586aadb2d7f177c3950fa649a33b849a114d",
+    "name": "Burnham Lake",
+    "place_id": "ChIJHdSOUGihkTMR5dAIINnlOM4",
+    "rating": 4.1,
+    "review": {
+      "author_name": "Kokoy Severino",
+      "author_url": "https://www.google.com/maps/contrib/115172098895115282390/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh6.googleusercontent.com/-tZ4OUZXKSBQ/AAAAAAAAAAI/AAAAAAABnw8/PqXYv13rgFA/s128-c0x00000000-cc-rp-mo-ba8/photo.jpg",
+      "rating": 3,
+      "relative_time_description": "2 months ago",
+      "text": "We had fun here in a pedalboat on November 22, 2018. \n\nHere is an excerpt from The Adventures of Kokoy - A Travel Guide:\n\n\"...At Burnham Lake in the middle of the park, you can rent a row boat, or, if you have three or fewer people in your party, a pedal boat, which is a good exercise people should be encouraged to do anyway. Don't expect much from boating on Burnham Lake; it is anti-climactic at best. It's not much of a lake at all. \"Pool\" would be a more apt title for it. There is nowhere to go except in circles, and the only sights to see beyond the flowerbeds and trees surrounding the pool are the tops of buildings, including city hall, numerous hotels, and SM City shopping mall. The true fun is in the laughter and fellowship you have with friends and family in the boat, and that is what Burnham Lake is truly all about...\"",
+      "time": 1546054614
+    },
+    "image": "assets/img/tourist-spots/Burnham Lake.jpg",
+    "history": "Burnham Park is named after Daniel Burnham, an American architect who was the city planner for Baguio. He designed the park and the original plans for the city simultaneously, and construction began around 1904. Burnham Park covers the only large expanse of level ground within hilly surroundings."
+  },
+  {
+    "formatted_address": "Mines View Observation Deck, Mines View, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4195724, "lng": 120.6278916 },
+      "viewport": {
+        "south": 16.41830656970849,
+        "west": 120.62598956970851,
+        "north": 16.4210045302915,
+        "east": 120.62868753029147
+      }
+    },
+    "id": "10ba31ede6bdac81747f165e4753c388d731ce99",
+    "name": "Mines View Observation Deck",
+    "place_id": "ChIJVSABPwKkkTMRyyCzUZaCQPE",
+    "rating": 4.2,
+    "review": {
+      "author_name": "Mark Eumir Turingan",
+      "author_url": "https://www.google.com/maps/contrib/105590381259959745096/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh4.googleusercontent.com/-EocVlVHlOqg/AAAAAAAAAAI/AAAAAAAAEOk/yV2Or5XOe_U/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "It was a long time since I last visited Baguio City. It was like 7 or 8 years ago. Coming back here with my girlfriend is such a memorable experience. The view and cool climate is awesome.",
+      "time": 1551395383
+    },
+    "image": "assets/img/tourist-spots/mines-view-observation-deck.jpg",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000",
+            "hours": 20,
+            "minutes": 0,
+            "nextDate": 1552824000000
+          },
+          "open": {
+            "day": 0,
+            "time": "0500",
+            "hours": 5,
+            "minutes": 0,
+            "nextDate": 1552770000000
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000",
+            "hours": 20,
+            "minutes": 0,
+            "nextDate": 1552910400000
+          },
+          "open": {
+            "day": 1,
+            "time": "0500",
+            "hours": 5,
+            "minutes": 0,
+            "nextDate": 1552856400000
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000",
+            "hours": 20,
+            "minutes": 0,
+            "nextDate": 1552996800000
+          },
+          "open": {
+            "day": 2,
+            "time": "0500",
+            "hours": 5,
+            "minutes": 0,
+            "nextDate": 1552942800000
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000",
+            "hours": 20,
+            "minutes": 0,
+            "nextDate": 1553083200000
+          },
+          "open": {
+            "day": 3,
+            "time": "0500",
+            "hours": 5,
+            "minutes": 0,
+            "nextDate": 1553029200000
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000",
+            "hours": 20,
+            "minutes": 0,
+            "nextDate": 1553169600000
+          },
+          "open": {
+            "day": 4,
+            "time": "0500",
+            "hours": 5,
+            "minutes": 0,
+            "nextDate": 1553115600000
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000",
+            "hours": 20,
+            "minutes": 0,
+            "nextDate": 1553256000000
+          },
+          "open": {
+            "day": 5,
+            "time": "0500",
+            "hours": 5,
+            "minutes": 0,
+            "nextDate": 1553202000000
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000",
+            "hours": 20,
+            "minutes": 0,
+            "nextDate": 1552737600000
+          },
+          "open": {
+            "day": 6,
+            "time": "0500",
+            "hours": 5,
+            "minutes": 0,
+            "nextDate": 1552683600000
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00 AM – 8:00 PM",
+        "Tuesday: 5:00 AM – 8:00 PM",
+        "Wednesday: 5:00 AM – 8:00 PM",
+        "Thursday: 5:00 AM – 8:00 PM",
+        "Friday: 5:00 AM – 8:00 PM",
+        "Saturday: 5:00 AM – 8:00 PM",
+        "Sunday: 5:00 AM – 8:00 PM"
+      ]
+    },
+    "history": "In the park is an Observation Deck that will enable the tourists to take an astonishing panoramic view that overlooks the mining town of Itogon which hosts the used to be a gold and copper mines of Benguet Corporation. A glimpse of the Amburayan Valley can also be witnessed at the view deck."
+  },
+  {
+    "formatted_address": "37 Leonard Wood Rd, Baguio, 2600 Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4144181, "lng": 120.61320279999995 },
+      "viewport": {
+        "south": 16.41341256970849,
+        "west": 120.61186056970848,
+        "north": 16.4161105302915,
+        "east": 120.61455853029156
+      }
+    },
+    "id": "cc5f335be047d7981e5186a886546f0d38a14121",
+    "name": "Baguio Botanical Garden",
+    "place_id": "ChIJJ3IMHFShkTMR0mgoul-AOmc",
+    "rating": 4.2,
+    "review": {
+      "author_name": "luv2ride2011",
+      "author_url": "https://www.google.com/maps/contrib/106856128056407552789/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh6.googleusercontent.com/-z2K43AmwZAk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcUS42gG8Zlcuu2Ny0Rsil9KNhm_g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "Its a nice place to visit and walk around. It is a simple family spot. You can walk the park in about 45 mins. There is also a cave dug into the hillside.\nFor you history buffs out there. This was dug into stone and used during the Japanese occupation. There is fighting holes, storage rooms, etc.",
+      "time": 1552643307
+    },
+    "image": "assets/img/tourist-spots/baguio-botanical-garden.jpg",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1552816800000
+          },
+          "open": {
+            "day": 0,
+            "time": "0600",
+            "hours": 6,
+            "minutes": 0,
+            "nextDate": 1552773600000
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1552903200000
+          },
+          "open": {
+            "day": 1,
+            "time": "0600",
+            "hours": 6,
+            "minutes": 0,
+            "nextDate": 1552860000000
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1552989600000
+          },
+          "open": {
+            "day": 2,
+            "time": "0600",
+            "hours": 6,
+            "minutes": 0,
+            "nextDate": 1552946400000
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1553076000000
+          },
+          "open": {
+            "day": 3,
+            "time": "0600",
+            "hours": 6,
+            "minutes": 0,
+            "nextDate": 1553032800000
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1553162400000
+          },
+          "open": {
+            "day": 4,
+            "time": "0600",
+            "hours": 6,
+            "minutes": 0,
+            "nextDate": 1553119200000
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1553248800000
+          },
+          "open": {
+            "day": 5,
+            "time": "0600",
+            "hours": 6,
+            "minutes": 0,
+            "nextDate": 1553205600000
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1552730400000
+          },
+          "open": {
+            "day": 6,
+            "time": "0600",
+            "hours": 6,
+            "minutes": 0,
+            "nextDate": 1552687200000
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00 AM – 6:00 PM",
+        "Tuesday: 6:00 AM – 6:00 PM",
+        "Wednesday: 6:00 AM – 6:00 PM",
+        "Thursday: 6:00 AM – 6:00 PM",
+        "Friday: 6:00 AM – 6:00 PM",
+        "Saturday: 6:00 AM – 6:00 PM",
+        "Sunday: 6:00 AM – 6:00 PM"
+      ]
+    },
+    "history": "This park used to be called Botanical and Zoological Garden. It has been named as Igorot Village, due to the native huts and Igorot sculptures. It was also named Imelda Park during the Marcos regimen."
+  },
+  {
+    "formatted_address": "FA 347 Bell Church Rd, La Trinidad, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.431633, "lng": 120.59887939999999 },
+      "viewport": {
+        "south": 16.4302535697085,
+        "west": 120.59735481970847,
+        "north": 16.4329515302915,
+        "east": 120.60005278029143
+      }
+    },
+    "id": "a8a7c3913a5c31849bd3fb23afd2ae754d9e67ee",
+    "name": "Bell Church",
+    "place_id": "ChIJo60Jv-ejkTMRxuo8z6gqlQk",
+    "rating": 4.2,
+    "review": {
+      "author_name": "Beatriz Bugay",
+      "author_url": "https://www.google.com/maps/contrib/115180366697706672515/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh4.googleusercontent.com/-0XlgpH2GEDY/AAAAAAAAAAI/AAAAAAAAAFY/AweTPgCHqpw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+      "rating": 3,
+      "relative_time_description": "a month ago",
+      "text": "It was fine and all especially of you're interested in Chinese culture.  But there's nothing there to see. Just the temple and the grounds.  You can't even climb up the higher structures. But you can always just take pictures and pay respect.",
+      "time": 1549800611
+    },
+    "image": "assets/img/tourist-spots/bell-church.jpg",
+    "history": "The Bell Church was founded on August 4, 1960 in Benguet by a Chinese immigrants from Canton, China (now Guangzhou) led by Ng Pee. They were devotees of the Buddhist monk Ji Gong.",
+    "formatted_phone_number": "0917 355 4788"
+  },
+  {
+    "formatted_address": "N Santo Tomas Rd, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4013014, "lng": 120.58955839999999 },
+      "viewport": {
+        "south": 16.39999121970849,
+        "west": 120.5880946197085,
+        "north": 16.4026891802915,
+        "east": 120.59079258029146
+      }
+    },
+    "id": "1442a6f7022118e94b5cb46a564c7ee3b3a5ba01",
+    "name": "Maryknoll Ecological Sanctuary",
+    "place_id": "ChIJISwdExOhkTMR-aSLW311_bY",
+    "rating": 4.2,
+    "review": {
+      "author_name": "Jeyzely Jenn Wacoy",
+      "author_url": "https://www.google.com/maps/contrib/101504434124411562787/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh4.googleusercontent.com/-6G0WOAq9FTE/AAAAAAAAAAI/AAAAAAAAABo/pswNDoFhZKI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+      "rating": 4,
+      "relative_time_description": "in the last week",
+      "text": "It is educational. A nice place to bring your children to learn a bit of history.",
+      "time": 1552319509
+    },
+    "image": "assets/img/tourist-spots/maryknoll-ecological-sanctuary.jpg",
+    "website": "http://maryknollecological.weebly.com/",
+    "history": "After the 1990 earthquake that hit Baguio City, the Maryknoll Sisters decided on an alternative way to use their resources in the City of Pines and converted their elementary school as a venue for education still, but this time to focus on the fragile environment that is the planet Earth.",
+    "formatted_phone_number": "(074) 424 5745"
+  },
+  {
+    "formatted_address": "Harrison Rd, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4096537, "lng": 120.59720010000001 },
+      "viewport": {
+        "south": 16.4083009197085,
+        "west": 120.59588136970842,
+        "north": 16.4109988802915,
+        "east": 120.5985793302915
+      }
+    },
+    "id": "462733aec5b9dce3145086f2c2e1fe4e049f79ea",
+    "name": "Harrison Road Night Market",
+    "place_id": "ChIJJYpXfkKhkTMRGoCRB0zBxWw",
+    "rating": 4.2,
+    "review": {
+      "author_name": "Ysabelle Icaro",
+      "author_url": "https://www.google.com/maps/contrib/107082474696797815653/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh4.googleusercontent.com/-iK23MkZsj8I/AAAAAAAAAAI/AAAAAAAAAkk/CqPU4ZsXsU8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+      "rating": 4,
+      "relative_time_description": "2 weeks ago",
+      "text": "It was fun going around the night market. There are a lot of great finds with prices that are cheap & affordable, which is also why the streets are pretty crowded.",
+      "time": 1551071906
+    },
+    "image": "assets/img/tourist-spots/harrison-road-night-market.jpg",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0200",
+            "hours": 2,
+            "minutes": 0,
+            "nextDate": 1552845600000
+          },
+          "open": {
+            "day": 0,
+            "time": "2100",
+            "hours": 21,
+            "minutes": 0,
+            "nextDate": 1552827600000
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0200",
+            "hours": 2,
+            "minutes": 0,
+            "nextDate": 1552932000000
+          },
+          "open": {
+            "day": 1,
+            "time": "2100",
+            "hours": 21,
+            "minutes": 0,
+            "nextDate": 1552914000000
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200",
+            "hours": 2,
+            "minutes": 0,
+            "nextDate": 1553018400000
+          },
+          "open": {
+            "day": 2,
+            "time": "2100",
+            "hours": 21,
+            "minutes": 0,
+            "nextDate": 1553000400000
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0200",
+            "hours": 2,
+            "minutes": 0,
+            "nextDate": 1553104800000
+          },
+          "open": {
+            "day": 3,
+            "time": "2100",
+            "hours": 21,
+            "minutes": 0,
+            "nextDate": 1553086800000
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200",
+            "hours": 2,
+            "minutes": 0,
+            "nextDate": 1553191200000
+          },
+          "open": {
+            "day": 4,
+            "time": "2100",
+            "hours": 21,
+            "minutes": 0,
+            "nextDate": 1553173200000
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200",
+            "hours": 2,
+            "minutes": 0,
+            "nextDate": 1552672800000
+          },
+          "open": {
+            "day": 5,
+            "time": "2100",
+            "hours": 21,
+            "minutes": 0,
+            "nextDate": 1553259600000
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200",
+            "hours": 2,
+            "minutes": 0,
+            "nextDate": 1552759200000
+          },
+          "open": {
+            "day": 6,
+            "time": "2100",
+            "hours": 21,
+            "minutes": 0,
+            "nextDate": 1552741200000
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 PM – 2:00 AM",
+        "Tuesday: 9:00 PM – 2:00 AM",
+        "Wednesday: 9:00 PM – 2:00 AM",
+        "Thursday: 9:00 PM – 2:00 AM",
+        "Friday: 9:00 PM – 2:00 AM",
+        "Saturday: 9:00 PM – 2:00 AM",
+        "Sunday: 9:00 PM – 2:00 AM"
+      ]
+    },
+    "history": "Baguio City's night shopping market at Harrison Road in the city centre opens for business daily at 9pm. Having heard some horror stories both here on the Trip Advisor reviews and also at our Baguio City hotel about how crowded it could be at times I planned to make a visit here one Sunday evening when I hoped that it would not be so busy. Luckily for me I found the market hall in Harrison Road to be so quiet that some of the retailers were shutting up shop and packing up their wares before heading home to bed for an early night."
+  },
+  {
+    "formatted_address": "La Trinidad, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4579959, "lng": 120.5866198 },
+      "viewport": {
+        "south": 16.4566945197085,
+        "west": 120.58545771970853,
+        "north": 16.45939248029151,
+        "east": 120.5881556802915
+      }
+    },
+    "id": "d08a472c85a7011aa836247a1e255ed36529c681",
+    "name": "Strawberry Farm",
+    "place_id": "ChIJCyMfBaWjkTMRPuhksgmvOUg",
+    "rating": 4.2,
+    "review": {
+      "author_name": "David Alexander",
+      "author_url": "https://www.google.com/maps/contrib/116461242295081962424/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh6.googleusercontent.com/-7s1n6TaMxvw/AAAAAAAAAAI/AAAAAAAAADM/fdEDqFhVjoc/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "Well, I like the countryside and well maintained farms and La Trinidad's whole identity is invested in their agriculture culture ~ and it's not big companies but hundreds of small companies that take such care in their passion and craft. I was very pleased.",
+      "time": 1552476889
+    },
+    "image": "assets/img/tourist-spots/strawberry-farm.jpg",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900",
+            "hours": 19,
+            "minutes": 0,
+            "nextDate": 1552820400000
+          },
+          "open": {
+            "day": 0,
+            "time": "0700",
+            "hours": 7,
+            "minutes": 0,
+            "nextDate": 1552777200000
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900",
+            "hours": 19,
+            "minutes": 0,
+            "nextDate": 1552906800000
+          },
+          "open": {
+            "day": 1,
+            "time": "0700",
+            "hours": 7,
+            "minutes": 0,
+            "nextDate": 1552863600000
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900",
+            "hours": 19,
+            "minutes": 0,
+            "nextDate": 1552993200000
+          },
+          "open": {
+            "day": 2,
+            "time": "0700",
+            "hours": 7,
+            "minutes": 0,
+            "nextDate": 1552950000000
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900",
+            "hours": 19,
+            "minutes": 0,
+            "nextDate": 1553079600000
+          },
+          "open": {
+            "day": 3,
+            "time": "0700",
+            "hours": 7,
+            "minutes": 0,
+            "nextDate": 1553036400000
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900",
+            "hours": 19,
+            "minutes": 0,
+            "nextDate": 1553166000000
+          },
+          "open": {
+            "day": 4,
+            "time": "0700",
+            "hours": 7,
+            "minutes": 0,
+            "nextDate": 1553122800000
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900",
+            "hours": 19,
+            "minutes": 0,
+            "nextDate": 1553252400000
+          },
+          "open": {
+            "day": 5,
+            "time": "0700",
+            "hours": 7,
+            "minutes": 0,
+            "nextDate": 1553209200000
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900",
+            "hours": 19,
+            "minutes": 0,
+            "nextDate": 1552734000000
+          },
+          "open": {
+            "day": 6,
+            "time": "0700",
+            "hours": 7,
+            "minutes": 0,
+            "nextDate": 1552690800000
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 7:00 PM",
+        "Tuesday: 7:00 AM – 7:00 PM",
+        "Wednesday: 7:00 AM – 7:00 PM",
+        "Thursday: 7:00 AM – 7:00 PM",
+        "Friday: 7:00 AM – 7:00 PM",
+        "Saturday: 7:00 AM – 7:00 PM",
+        "Sunday: 7:00 AM – 7:00 PM"
+      ]
+    },
+    "history": "The strawberry farm is located in Barangay Betag of La Trinidad, Benguet and is owned and maintained by the Benguet State University (BSU). The BSU leases at least 500 to 1,000 square meters (5,400 to 10,800 sq ft) lots of the 79.49 hectares (196.4 acres) farm to local farmers for strawberry cultivation.",
+    "formatted_phone_number": "0955 396 5499"
+  },
+  {
+    "formatted_address": "Happy Glen Loop Rd, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4121894, "lng": 120.6009176 },
+      "viewport": {
+        "south": 16.4108190697085,
+        "west": 120.59947661970853,
+        "north": 16.4135170302915,
+        "east": 120.60217458029149
+      }
+    },
+    "id": "ffd18dd487c6859364617dc0599068fa34747788",
+    "name": "Emilio F. Aguinaldo Museum",
+    "place_id": "ChIJE600NEOhkTMRLxwwdAK_A48",
+    "rating": 4.2,
+    "review": {
+      "author_name": "Dwain Badua",
+      "author_url": "https://www.google.com/maps/contrib/114913933445061619853/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh4.googleusercontent.com/-23x0I-sxI1g/AAAAAAAAAAI/AAAAAAAAA5E/8CsHJB5Ybe4/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Visited EMILIO AGUINALDO MUSEUM in Baguio City to see the intriguing original flag unfurled on June 12, 1898 in Kawit, Cavite. This flag is bound for extinction after 20 years considering its decaying state. The flag was only revealed to the public by Emilio Aguinaldo in 1964 before his demise. Less than 500 visitors have only visited the museum since its construction in 1985 on Happy Glen Loop in Baguio City.",
+      "time": 1549201007
+    },
+    "image": "assets/img/tourist-spots/Emilio F. Aguinaldo Museum.jpg",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1552813200000
+          },
+          "open": {
+            "day": 0,
+            "time": "1000",
+            "hours": 10,
+            "minutes": 0,
+            "nextDate": 1552788000000
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1552986000000
+          },
+          "open": {
+            "day": 2,
+            "time": "1000",
+            "hours": 10,
+            "minutes": 0,
+            "nextDate": 1552960800000
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1553072400000
+          },
+          "open": {
+            "day": 3,
+            "time": "1000",
+            "hours": 10,
+            "minutes": 0,
+            "nextDate": 1553047200000
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1553158800000
+          },
+          "open": {
+            "day": 4,
+            "time": "1000",
+            "hours": 10,
+            "minutes": 0,
+            "nextDate": 1553133600000
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1553245200000
+          },
+          "open": {
+            "day": 5,
+            "time": "1000",
+            "hours": 10,
+            "minutes": 0,
+            "nextDate": 1553220000000
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1552726800000
+          },
+          "open": {
+            "day": 6,
+            "time": "1000",
+            "hours": 10,
+            "minutes": 0,
+            "nextDate": 1552701600000
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "history": "The Emilio F. Aguinaldo Shrine is a national shrine located in Kawit, Cavite in the Philippines, where the Philippine Declaration of Independence from Spain was declared on June 12, 1898.",
+    "formatted_phone_number": "(074) 661 1797"
+  },
+  {
+    "formatted_address": "Romulo Dr, Brgy., Lualhati, Baguio, 2600 Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.415504, "lng": 120.61625909999998 },
+      "viewport": {
+        "south": 16.4142292197085,
+        "west": 120.61496881970857,
+        "north": 16.4169271802915,
+        "east": 120.61766678029153
+      }
+    },
+    "id": "6586a0f722c1fa1300958b138e7ef1b5f9f680de",
+    "name": "Ketchup Food Community",
+    "place_id": "ChIJNREte1ShkTMRFSNo6IjuyqA",
+    "rating": 4.2,
+    "review": {
+      "author_name": "Madelaine Clemente",
+      "author_url": "https://www.google.com/maps/contrib/106220169996244559474/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/-b1_jyqopzxQ/AAAAAAAAAAI/AAAAAAAACxc/MMAumJjB6cM/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Kanto Freestyle's Lomo ribs is the best tasting rib that I tried. The rib cut is not too big but thick, very tender and the sauce is very flavorful, the side salad is unique as there's watermelon that add an exciting twist to the whole meal, with rice and not so expensive too!\n\nToo bad they are not there anymore. There's comfort room but they need to improve the management of cleanliness. Anyways, still worth it to add in your Baguio itinerary.",
+      "time": 1519124046
+    },
+    "image": "assets/img/tourist-spots/Ketchup Food Community.jpg",
+    "history": "Ketchup Food Community has become one of Baguio's landmarks when it comes to dining since it opened in 2011. Consisting of five homegrown restaurants that have created a name for themselves among foodies, Ketchup became a must-try place for those going up to Baguio.",
+    "formatted_phone_number": "0923 878 4968"
+  },
+  {
+    "formatted_address": "Jose Abad Santos Dr, Baguio, 2600 Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.411394, "lng": 120.59397160000003 },
+      "viewport": {
+        "south": 16.40613065,
+        "west": 120.59047669999995,
+        "north": 16.41507885,
+        "east": 120.59938469999997
+      }
+    },
+    "id": "e11b53c0187f87d2f4a92373779d717163b26afa",
+    "name": "Burnham Park",
+    "place_id": "ChIJiYLvmGmhkTMR8rwh5qkzitE",
+    "rating": 4.3,
+    "review": {
+      "author_name": "Rhovea Viduya",
+      "author_url": "https://www.google.com/maps/contrib/112672412933420723196/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh6.googleusercontent.com/-2op3iY2XA2c/AAAAAAAAAAI/AAAAAAAAAIc/ta7pANCPPxc/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "There are variety of fun activities to enjoy here - from boating, skating, biking, and more. You may also simply enjoy having a picnic with your family in the park. Such a good place to have fun in Baguio City! But always remember to be a responsible citizen or tourist. Don't ruin a good place by throwing trashes just anywhere.",
+      "time": 1551658618
+    },
+    "image": "assets/img/tourist-spots/burnham-park.jpg",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000",
+            "hours": 0,
+            "minutes": 0,
+            "nextDate": 1552752000000
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "website": "https://www.facebook.com/Burnham-Park-Baguio-City-259896021382611/",
+    "history": "Burnham Park is named after Daniel Burnham, an American architect who was the city planner for Baguio. He designed the park and the original plans for the city simultaneously, and construction began around 1904. Burnham Park covers the only large expanse of level ground within hilly surroundings.",
+    "formatted_phone_number": "(074) 442 7014"
+  },
+  {
+    "formatted_address": "Scout Hill Dr, Camp John Hay, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.398387, "lng": 120.61733000000004 },
+      "viewport": {
+        "south": 16.3970380197085,
+        "west": 120.61598101970844,
+        "north": 16.3997359802915,
+        "east": 120.61867898029152
+      }
+    },
+    "id": "413bcbe5e71852adf9e97e992bd39d775f9de8df",
+    "name": "Tree Top Adventure Baguio",
+    "place_id": "ChIJn0fSfjWhkTMRtr6XjPEMbqM",
+    "rating": 4.3,
+    "review": {
+      "author_name": "Jonathan Gaspar",
+      "author_url": "https://www.google.com/maps/contrib/116326778857078004021/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh5.googleusercontent.com/-4ziGGQX1qqI/AAAAAAAAAAI/AAAAAAAAECk/q0iGM7-Y__I/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "Friendly staff. I think the only issue I have was that it's a bit pricey. But everything is good. Will recommend.",
+      "time": 1551863204
+    },
+    "image": "assets/img/tourist-spots/tree-top-adventure-baguio.jpg",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1552813200000
+          },
+          "open": {
+            "day": 0,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1552780800000
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1552899600000
+          },
+          "open": {
+            "day": 1,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1552867200000
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1552986000000
+          },
+          "open": {
+            "day": 2,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1552953600000
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1553072400000
+          },
+          "open": {
+            "day": 3,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1553040000000
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1553158800000
+          },
+          "open": {
+            "day": 4,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1553126400000
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1553245200000
+          },
+          "open": {
+            "day": 5,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1553212800000
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1552726800000
+          },
+          "open": {
+            "day": 6,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1552694400000
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: 8:00 AM – 5:00 PM"
+      ]
+    },
+    "website": "http://www.treetopadventureph.com/",
+    "history": "",
+    "formatted_phone_number": "0932 783 2137"
+  },
+  {
+    "formatted_address": "Dominican Hill, Diplomat Road, Baguio, 2600 Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4038641, "lng": 120.58663630000001 },
+      "viewport": {
+        "south": 16.4024296197085,
+        "west": 120.5852941697085,
+        "north": 16.4051275802915,
+        "east": 120.58799213029147
+      }
+    },
+    "id": "3e6f5e261e253b01ec216d877e2ab5624e1d07bb",
+    "name": "Heritage Hill and Nature Park Garden, Baguio",
+    "place_id": "ChIJg-YHS22hkTMR5CR0EvfCV6g",
+    "rating": 4.3,
+    "review": {
+      "author_name": "Mr. Akari",
+      "author_url": "https://www.google.com/maps/contrib/103025614307046384060/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh4.googleusercontent.com/-0OsRIwYuv8U/AAAAAAAAAAI/AAAAAAAAH40/YgOEoxT-DqQ/s128-c0x00000000-cc-rp-mo/photo.jpg",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Historical place very nice. Some people says its haunted mansion. I recommend this place once you visit baguio city. Free Entrance and Parking. Need more restoration of the building. Keep it up!",
+      "time": 1550596615
+    },
+    "image": "assets/img/tourist-spots/heritage-hill-and-nature-park-garden,-baguio.jpg",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1552816800000
+          },
+          "open": {
+            "day": 0,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1552780800000
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1552903200000
+          },
+          "open": {
+            "day": 1,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1552867200000
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1552989600000
+          },
+          "open": {
+            "day": 2,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1552953600000
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1553076000000
+          },
+          "open": {
+            "day": 3,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1553040000000
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1553162400000
+          },
+          "open": {
+            "day": 4,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1553126400000
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1553248800000
+          },
+          "open": {
+            "day": 5,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1553212800000
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1552730400000
+          },
+          "open": {
+            "day": 6,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1552694400000
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: 8:00 AM – 6:00 PM",
+        "Sunday: 8:00 AM – 6:00 PM"
+      ]
+    },
+    "history": "Adventure park offering zip-lining courses along with treetop climbs & cablecar rides.",
+    "formatted_phone_number": "0926 788 9234"
+  },
+  {
+    "formatted_address": "Shanum St, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4108607, "lng": 120.59253669999998 },
+      "viewport": {
+        "south": 16.4094933697085,
+        "west": 120.59120946970847,
+        "north": 16.4121913302915,
+        "east": 120.59390743029144
+      }
+    },
+    "id": "c6a0ffe88b1aaa2392711f31f832655ed8a96e38",
+    "name": "Baguio Orchidarium",
+    "place_id": "ChIJK-x34GihkTMRHAellx6xvi8",
+    "rating": 4.3,
+    "review": {
+      "author_name": "Dom Perron",
+      "author_url": "https://www.google.com/maps/contrib/106504224394127567925/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh4.googleusercontent.com/-NUFecou7NGc/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rc8C6Cee06H_9y5NEDcXnNGCqDrAQ/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+      "rating": 4,
+      "relative_time_description": "3 weeks ago",
+      "text": "Many flowers to see, I think you can buy some. It's nice. Many varieties",
+      "time": 1550565666
+    },
+    "image": "assets/img/tourist-spots/baguio-orchidarium.jpg",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1552816800000
+          },
+          "open": {
+            "day": 0,
+            "time": "0700",
+            "hours": 7,
+            "minutes": 0,
+            "nextDate": 1552777200000
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1552903200000
+          },
+          "open": {
+            "day": 1,
+            "time": "0700",
+            "hours": 7,
+            "minutes": 0,
+            "nextDate": 1552863600000
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1552989600000
+          },
+          "open": {
+            "day": 2,
+            "time": "0700",
+            "hours": 7,
+            "minutes": 0,
+            "nextDate": 1552950000000
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1553076000000
+          },
+          "open": {
+            "day": 3,
+            "time": "0700",
+            "hours": 7,
+            "minutes": 0,
+            "nextDate": 1553036400000
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1553162400000
+          },
+          "open": {
+            "day": 4,
+            "time": "0700",
+            "hours": 7,
+            "minutes": 0,
+            "nextDate": 1553122800000
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1553248800000
+          },
+          "open": {
+            "day": 5,
+            "time": "0700",
+            "hours": 7,
+            "minutes": 0,
+            "nextDate": 1553209200000
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1552730400000
+          },
+          "open": {
+            "day": 6,
+            "time": "0700",
+            "hours": 7,
+            "minutes": 0,
+            "nextDate": 1552690800000
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 AM – 6:00 PM",
+        "Tuesday: 7:00 AM – 6:00 PM",
+        "Wednesday: 7:00 AM – 6:00 PM",
+        "Thursday: 7:00 AM – 6:00 PM",
+        "Friday: 7:00 AM – 6:00 PM",
+        "Saturday: 7:00 AM – 6:00 PM",
+        "Sunday: 7:00 AM – 6:00 PM"
+      ]
+    },
+    "history": "The Baguio City Orchidarium is the place for fresh plants that are sold at an affordable price. We, Travel Tripsters, love plants. "
+  },
+  {
+    "formatted_address": "ME 33 Lamtang, Pico-Lamtang Road, Puguis, La Trinidad, 2601 Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4430458, "lng": 120.55230240000003 },
+      "viewport": {
+        "south": 16.4416175697085,
+        "west": 120.55098061970853,
+        "north": 16.4443155302915,
+        "east": 120.55367858029149
+      }
+    },
+    "id": "bb0483b360443283afb24efd92f33156f7bd6dc9",
+    "name": "Mount Costa",
+    "place_id": "ChIJrRpOnT2ikTMRdvizMV4_cUo",
+    "rating": 4.3,
+    "review": {
+      "author_name": "RG Sayson",
+      "author_url": "https://www.google.com/maps/contrib/114438138043459880454/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh4.googleusercontent.com/-klfCkcySmZw/AAAAAAAAAAI/AAAAAAAAKHg/UfbVxX81jsQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Absolutely loved this place! \n\nWorth every peso if you want to quietly relax whole enjoying the different theme gardens.\n\nBook online to get 5% discount...\n\nI can spend a whole day in the place... can't wait to get back there!",
+      "time": 1550498669
+    },
+    "image": "assets/img/tourist-spots/mount-costa.jpg",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1552813200000
+          },
+          "open": {
+            "day": 0,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1552784400000
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1552899600000
+          },
+          "open": {
+            "day": 1,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1552870800000
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1552986000000
+          },
+          "open": {
+            "day": 2,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1552957200000
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1553072400000
+          },
+          "open": {
+            "day": 3,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1553043600000
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1553158800000
+          },
+          "open": {
+            "day": 4,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1553130000000
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1553245200000
+          },
+          "open": {
+            "day": 5,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1553216400000
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1552726800000
+          },
+          "open": {
+            "day": 6,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1552698000000
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ]
+    },
+    "website": "http://www.mountcosta.com/",
+    "history": "The six hectare (15 acre) garden is tucked among tall pine trees on a privately owned forested - terraced mountain. Mount Costa is named in honor of proponents' ancestors, Col. Voltaire & Cleotilde Acosta, 2 inspiring Baguio pioneers whose legacy we'd like to share with you.",
+    "formatted_phone_number": "0917 702 8292"
+  },
+  {
+    "formatted_address": "Kennon Rd, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.3751519, "lng": 120.60706729999993 },
+      "viewport": {
+        "south": 16.3738121697085,
+        "west": 120.60577876970842,
+        "north": 16.3765101302915,
+        "east": 120.6084767302915
+      }
+    },
+    "id": "c3f6a02aa39c56fb6c737928b425aa6c22281c36",
+    "name": "Kennon Road Viewpoint",
+    "place_id": "ChIJH7My69mgkTMR9v0n4BGoPvM",
+    "rating": 4.3,
+    "review": {
+      "author_name": "touseef zaki",
+      "author_url": "https://www.google.com/maps/contrib/100981336557696676913/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/-T7w1o5mWeW4/AAAAAAAAAAI/AAAAAAAABB0/6JEbQjx8Zzo/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "Very good scenic place from this place you can see the almost all the entire mountains and its beautiful",
+      "time": 1552145592
+    },
+    "image": "assets/img/tourist-spots/kennon-road-viewpoint.jpg",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000",
+            "hours": 0,
+            "minutes": 0,
+            "nextDate": 1552752000000
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "history": "The Kennon Road (formerly the Benguet Road and also known as the Rosario–Baguio Road) is a roadway in Benguet province in the Philippines connecting the mountain city of Baguio to the lowland town of Rosario in La Union province. The project begun in 1903 and opened for travel on January 29, 1905."
+  },
+  {
+    "formatted_address": "Historical Core, Camp John Hay, Camp John Hay, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.3987926, "lng": 120.61779339999998 },
+      "viewport": {
+        "south": 16.3974436197085,
+        "west": 120.6164444197085,
+        "north": 16.4001415802915,
+        "east": 120.61914238029158
+      }
+    },
+    "id": "8a166710bb45c1215b96912e866a5c64e75a047a",
+    "name": "Bell Amphitheater",
+    "place_id": "ChIJhdZifTWhkTMRN8qxeIzCjZY",
+    "rating": 4.3,
+    "review": {
+      "author_name": "Siegfried Erorita",
+      "author_url": "https://www.google.com/maps/contrib/113327827007181166941/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/-LmoRb6qWiho/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rd-5vP1KGHIS5hCvqdjOpcja7Q4Mg/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Visit this when you are in Camp John hay... If you like romance with a touch of rusticity, this could be a place for you...",
+      "time": 1551081904
+    },
+    "image": "assets/img/tourist-spots/bell-amphitheater.jpg",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1552813200000
+          },
+          "open": {
+            "day": 0,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1552780800000
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1552899600000
+          },
+          "open": {
+            "day": 1,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1552867200000
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1552986000000
+          },
+          "open": {
+            "day": 2,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1552953600000
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1553072400000
+          },
+          "open": {
+            "day": 3,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1553040000000
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1553158800000
+          },
+          "open": {
+            "day": 4,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1553126400000
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1553245200000
+          },
+          "open": {
+            "day": 5,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1553212800000
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1552726800000
+          },
+          "open": {
+            "day": 6,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1552694400000
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: 8:00 AM – 5:00 PM"
+      ]
+    },
+    "website": "http://www.bbossbaguiotours.blogspot.com/",
+    "history": "The Bell Amphitheater was built in 1913 and was named after its designer, General J. Franklin Bell. From then on, it became a favorite venue for concerts, weddings and other public events.",
+    "formatted_phone_number": "(074) 423 5402"
+  },
+  {
+    "formatted_address": "Gibraltar Rd, Baguio, 2600 Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4219379, "lng": 120.62565029999996 },
+      "viewport": {
+        "south": 16.4206679197085,
+        "west": 120.62425496970855,
+        "north": 16.4233658802915,
+        "east": 120.62695293029151
+      }
+    },
+    "id": "c504cc3a67dd2d74aff306aec7b6e460def510f5",
+    "name": "Good Shepherd Convent",
+    "place_id": "ChIJd8MMYQGkkTMRRot_a8URm-M",
+    "rating": 4.4,
+    "review": {
+      "author_name": "Timothy Chua",
+      "author_url": "https://www.google.com/maps/contrib/100204366825507280481/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/--DMLsbVxZlk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reQ-SzTX4Hk4OnbQqgaIpR_25Zj5g/s128-c0x00000000-cc-rp-mo/photo.jpg",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "Best blueberry and strawberry jam! Too crowded on weekends or long holidays! Parking is insufficient",
+      "time": 1551579623
+    },
+    "image": "assets/img/tourist-spots/good-shepherd-convent.jpg",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1552813200000
+          },
+          "open": {
+            "day": 0,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1552780800000
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1552899600000
+          },
+          "open": {
+            "day": 1,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1552867200000
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1552986000000
+          },
+          "open": {
+            "day": 2,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1552953600000
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1553072400000
+          },
+          "open": {
+            "day": 3,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1553040000000
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1553158800000
+          },
+          "open": {
+            "day": 4,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1553126400000
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1553245200000
+          },
+          "open": {
+            "day": 5,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1553212800000
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1552726800000
+          },
+          "open": {
+            "day": 6,
+            "time": "0800",
+            "hours": 8,
+            "minutes": 0,
+            "nextDate": 1552694400000
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 5:00 PM",
+        "Sunday: 8:00 AM – 5:00 PM"
+      ]
+    },
+    "website": "http://www.goodshepherdsisters.org.ph/baguio",
+    "history": "As early as 1921 the Good Shepherd Sisters at St. Bridget's Academy in Batangas, after a hard year's work, spent the summer months in Baguio. Not having a house of their own in Baguio, the sisters used to stay with the Belgian Sisters of the Immaculate Heart of Mary or with the Maryknoll Missionary Sisters.",
+    "formatted_phone_number": "(074) 424 2496"
+  },
+  {
+    "formatted_address": "6 Asin Rd, Tuba, 2600 Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4106777, "lng": 120.55035700000008 },
+      "viewport": {
+        "south": 16.4094366197085,
+        "west": 120.54904726970847,
+        "north": 16.4121345802915,
+        "east": 120.55174523029154
+      }
+    },
+    "id": "1e3d8373800646cc5113b5a326ca00f853a1f119",
+    "name": "BenCab Museum",
+    "place_id": "ChIJR78RMcChkTMRyWGEria6N9c",
+    "rating": 4.4,
+    "review": {
+      "author_name": "Andre Galvan",
+      "author_url": "https://www.google.com/maps/contrib/102183601458819728883/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh4.googleusercontent.com/-OXUZXZi8wvw/AAAAAAAAAAI/AAAAAAAAZxQ/Ab6rpPwSIy4/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+      "rating": 4,
+      "relative_time_description": "in the last week",
+      "text": "A must visit if you like paintings, sculptures and arts in general . Its a 3 storey art museum with a cozy cafe. At the back of the building, there are fishes and huts where you can just sit and relax and enjoy the view of the nature. You can feel almost sleepy because of the fresh cold air.",
+      "time": 1552482664
+    },
+    "image": "assets/img/tourist-spots/bencab-museum.jpg",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1552816800000
+          },
+          "open": {
+            "day": 0,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1552784400000
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1552989600000
+          },
+          "open": {
+            "day": 2,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1552957200000
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1553076000000
+          },
+          "open": {
+            "day": 3,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1553043600000
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1553162400000
+          },
+          "open": {
+            "day": 4,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1553130000000
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1553248800000
+          },
+          "open": {
+            "day": 5,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1553216400000
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1552730400000
+          },
+          "open": {
+            "day": 6,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1552698000000
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: 9:00 AM – 6:00 PM"
+      ]
+    },
+    "website": "http://www.bencabmuseum.org/",
+    "history": "The BenCab Museum is on Km. 6 Asin Road, a brief 15-minute drive from the center of Baguio City. Built on a promontory, the museum commands a breathtaking view of the adjacent garden, farm, hill and mini-forest, the surrounding mountains, and the South China sea in the distant west.",
+    "formatted_phone_number": "(074) 442 7165"
+  },
+  {
+    "formatted_address": "Ordonio Dr, Camp John Hay, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.400045, "lng": 120.61314330000005 },
+      "viewport": {
+        "south": 16.3986960197085,
+        "west": 120.61179431970845,
+        "north": 16.4013939802915,
+        "east": 120.61449228029153
+      }
+    },
+    "id": "8935a07031b00f11adff0321e3e6ce459975bbdc",
+    "name": "Camp John Hay Eco-Trail",
+    "place_id": "ChIJN5er6EmhkTMRj4v7xOOSo8s",
+    "rating": 4.4,
+    "review": {
+      "author_name": "Jay Lord",
+      "author_url": "https://www.google.com/maps/contrib/104894818718593564456/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh5.googleusercontent.com/-hDQNCXDnIxg/AAAAAAAAAAI/AAAAAAAAEvA/Q17d2VDSAkM/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+      "rating": 4,
+      "relative_time_description": "in the last week",
+      "text": "This place is such a gem, LITERALLY. I just love how love and nature-y this place is. Thid place is such a good place to 'hike'(it's not really a hike but just walking a small distance  upward. If you're a jog-type of a person then this is definitely a place for you. This is also a place for a person who just want to be with nature once in a while. \nNote: Bring your own food if you want to have an inexpensive walk with nature but if you're a rich person who reeks with money then why not try the restaurants here!",
+      "time": 1552471213
+    },
+    "image": "assets/img/tourist-spots/camp-john-hay-eco-trail.jpg",
+    "history": "Built to people for them to experience nature the way old Baguio used to be. The pleasure for me is the trek, discovering the trail and being surrounded with large pine trees and the scent of pine cones."
+  },
+  {
+    "formatted_address": "La Trinidad, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4589285, "lng": 120.59614060000001 },
+      "viewport": {
+        "south": 16.4575795197085,
+        "west": 120.59479161970853,
+        "north": 16.46027748029151,
+        "east": 120.5974895802915
+      }
+    },
+    "id": "6fcf31a46fee005359065ab1c6712d9fd5f877eb",
+    "name": "Mt. Kalugong",
+    "place_id": "ChIJB6cmEqKjkTMRyE0D3fWobnk",
+    "rating": 4.4,
+    "review": {
+      "author_name": "Joverlyn Espejo",
+      "author_url": "https://www.google.com/maps/contrib/116188242538213590911/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh5.googleusercontent.com/-Uph6Tvdxftc/AAAAAAAAAAI/AAAAAAAAP4M/qJni8nmMF1Y/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "Climbing atop the limestone rock formations of Mt. Kalugong offers a unique and beautiful view of La Trinidad Valley. I also enjoyed the peaceful and relaxing ambiance while enjoying my lunch at the picnic tables. They also serve delicious brewed coffee at the cafe. If you plan to visit, don't forget to wear some good hiking shoes.",
+      "time": 1551865163
+    },
+    "image": "assets/img/tourist-spots/mt.-kalugong.jpg",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1552816800000
+          },
+          "open": {
+            "day": 0,
+            "time": "0630",
+            "hours": 6,
+            "minutes": 30,
+            "nextDate": 1552775400000
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1552903200000
+          },
+          "open": {
+            "day": 1,
+            "time": "0630",
+            "hours": 6,
+            "minutes": 30,
+            "nextDate": 1552861800000
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1552989600000
+          },
+          "open": {
+            "day": 2,
+            "time": "0630",
+            "hours": 6,
+            "minutes": 30,
+            "nextDate": 1552948200000
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1553076000000
+          },
+          "open": {
+            "day": 3,
+            "time": "0630",
+            "hours": 6,
+            "minutes": 30,
+            "nextDate": 1553034600000
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1553162400000
+          },
+          "open": {
+            "day": 4,
+            "time": "0630",
+            "hours": 6,
+            "minutes": 30,
+            "nextDate": 1553121000000
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1553248800000
+          },
+          "open": {
+            "day": 5,
+            "time": "0630",
+            "hours": 6,
+            "minutes": 30,
+            "nextDate": 1553207400000
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800",
+            "hours": 18,
+            "minutes": 0,
+            "nextDate": 1552730400000
+          },
+          "open": {
+            "day": 6,
+            "time": "0630",
+            "hours": 6,
+            "minutes": 30,
+            "nextDate": 1552689000000
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:30 AM – 6:00 PM",
+        "Tuesday: 6:30 AM – 6:00 PM",
+        "Wednesday: 6:30 AM – 6:00 PM",
+        "Thursday: 6:30 AM – 6:00 PM",
+        "Friday: 6:30 AM – 6:00 PM",
+        "Saturday: 6:30 AM – 6:00 PM",
+        "Sunday: 6:30 AM – 6:00 PM"
+      ]
+    },
+    "history": "High-altitude destination for short mountain hikes with scenic views, plus a coffee shop at the top.",
+    "formatted_phone_number": "0949 898 0328"
+  },
+  {
+    "formatted_address": "P. Ledesma St, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4239019, "lng": 120.60600569999997 },
+      "viewport": {
+        "south": 16.4225607197085,
+        "west": 120.60453361970849,
+        "north": 16.42525868029151,
+        "east": 120.60723158029145
+      }
+    },
+    "id": "69777a8d2c399ca4cb8cf1f59b6fe7b8b98f68bf",
+    "name": "IMMACULATE CONCEPTION CHURCH",
+    "place_id": "ChIJX__q_uKjkTMRxfVZQvHcvNw",
+    "rating": 4.4,
+    "review": {
+      "author_name": "Henry Mango",
+      "author_url": "https://www.google.com/maps/contrib/115373931345094050645/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh6.googleusercontent.com/-2aZf6sTwhX0/AAAAAAAAAAI/AAAAAAAAABQ/DUXJwsJ22ck/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Nice church and sorroundings",
+      "time": 1544656053
+    },
+    "image": "assets/img/tourist-spots/immaculate-conception-church.jpg",
+    "history": "In Christian theology, the Immaculate Conception is the conception of the Virgin Mary free from original sin by virtue of the merits of her son Jesus. The Catholic Church teaches that God acted upon Mary in the first moment of her conception, keeping her immaculate."
+  },
+  {
+    "formatted_address": "2600, Steps To Our Lady Of Atonement Cathedral, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4125585, "lng": 120.59858929999996 },
+      "viewport": {
+        "south": 16.4112687197085,
+        "west": 120.59707076970847,
+        "north": 16.41396668029151,
+        "east": 120.59976873029154
+      }
+    },
+    "id": "686a656a1466a22b55d159abe75b27e23d1e01b2",
+    "name": "Cathedral of Our Lady of Atonement",
+    "place_id": "ChIJwblPOF2hkTMROOQiH9qxCwg",
+    "rating": 4.5,
+    "review": {
+      "author_name": "Gerald Pecson",
+      "author_url": "https://www.google.com/maps/contrib/115734024860039631203/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh5.googleusercontent.com/-LjXAEw7vZK8/AAAAAAAAAAI/AAAAAAAACbM/T62iz9ICaHM/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Our Lady of Atonement Church offer hourly masses on Sundays. Spacious parking space for all types of vehicle with parking fees. Benches are also available outside for those who cannot access inside during crowded masses. Solemn Masses celebrates here and inspiring shared homily. Surely, a must place to visit when your around the city.",
+      "time": 1547891968
+    },
+    "image": "assets/img/tourist-spots/cathedral-of-our-lady-of-atonement.jpg",
+    "history": "The building was completed by 1936, and consecrated that year, dedicated to Our Lady of Atonement. During World War II, the cathedral served as an evacuation center. It withstood the carpet-bombing of Baguio City in 1945.",
+    "formatted_phone_number": "(074) 304 4061"
+  },
+  {
+    "formatted_address": "Dominican Hill Rd, Baguio, 2600 Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4095958, "lng": 120.58057039999994 },
+      "viewport": {
+        "south": 16.4084249197085,
+        "west": 120.57973331970857,
+        "north": 16.4111228802915,
+        "east": 120.58243128029153
+      }
+    },
+    "id": "7e455879642098851762b362be3b4cf3bd71101c",
+    "name": "Our Lady of Lourdes Grotto",
+    "place_id": "ChIJv2t243OhkTMR3pLWeF5IK7k",
+    "rating": 4.5,
+    "review": {
+      "author_name": "Mary Grace Golfo",
+      "author_url": "https://www.google.com/maps/contrib/118315926101830170544/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh6.googleusercontent.com/-WaP7xty_hVE/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfwBj4_8cdCqIP8bVbzVgDxczEmbw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "It was our first time to visit the place. It has an aura of sacredness despite the area being crowded with devotees and tourists. The chapel provides a sanctuary where people can slip for a moment and say their prayers. I just hope that the visitors refrain from taking pictures right outside the entrance of the chapel because there is a tendency to  forget that silence should be observed, or better yet to take pictures without disturbing the peace and quiet of the chapel.",
+      "time": 1552485664
+    },
+    "image": "assets/img/tourist-spots/our-lady-of-lourdes-grotto.jpg",
+    "history": "Now a religious grotto. Our Lady of Lourdes is a Roman Catholic title of the Blessed Virgin Mary venerated in honour of the Marian apparitions that reportedly occurred in 1858 in the vicinity of Lourdes in France."
+  },
+  {
+    "formatted_address": "Camp John Hay, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.3990745, "lng": 120.61832660000005 },
+      "viewport": {
+        "south": 16.3978138197085,
+        "west": 120.61690951970854,
+        "north": 16.4005117802915,
+        "east": 120.6196074802915
+      }
+    },
+    "id": "d6b07f2150a3a9fc38c9873c8f0b5583dd7c034e",
+    "name": "Bell House",
+    "place_id": "ChIJJzIomkqhkTMRaUNSy7YeQCY",
+    "rating": 4.5,
+    "review": {
+      "author_name": "Divina Gracia Baclig",
+      "author_url": "https://www.google.com/maps/contrib/101897854716293323639/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh6.googleusercontent.com/-_IBO7ii80G4/AAAAAAAAAAI/AAAAAAAAAOM/_d_9829X6TI/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+      "rating": 3,
+      "relative_time_description": "a month ago",
+      "text": "The Bell House used to be a cute American-style house with complete furniture so that you'd feel like you're in 1940's Baguio. When we went for a tour with my friends, the place was bare. A bit sad looking. I hope they dress it up again soon.",
+      "time": 1548773035
+    },
+    "image": "assets/img/tourist-spots/bell-house.jpg",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1552813200000
+          },
+          "open": {
+            "day": 0,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1552784400000
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1552899600000
+          },
+          "open": {
+            "day": 1,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1552870800000
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1552986000000
+          },
+          "open": {
+            "day": 2,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1552957200000
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1553072400000
+          },
+          "open": {
+            "day": 3,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1553043600000
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1553158800000
+          },
+          "open": {
+            "day": 4,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1553130000000
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1553245200000
+          },
+          "open": {
+            "day": 5,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1553216400000
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1552726800000
+          },
+          "open": {
+            "day": 6,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1552698000000
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ]
+    },
+    "history": "The Bell House, a historic structure named after Major General Franklin Bell is situated at the camp's Historical Core. Besides the house is the Bell Amphitheater which was designed by Bell himself."
+  },
+  {
+    "formatted_address": "Sheridan Dr, Camp John Hay, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4025729, "lng": 120.61684730000002 },
+      "viewport": {
+        "south": 16.3918687,
+        "west": 120.60083989999998,
+        "north": 16.4132765,
+        "east": 120.63285470000005
+      }
+    },
+    "id": "f31a8e7fd0cbff36bcac7a35adbe790db8225154",
+    "name": "Butterfly Sanctuary",
+    "place_id": "ChIJje6hoUuhkTMRrOSqvdQ8jaY",
+    "rating": 0,
+    "review": { "text": "" },
+    "image": "assets/img/tourist-spots/butterfly-sanctuary.jpg",
+    "history": "Butterfly Sanctuary. The Butterfly Sanctuary at Camp John Hay was designed around the Little Mermaid Garden that was built by American soldiers decades ago when this premier Baguio attraction was still a U.S. Armed Forces recreational facility in the Philippines."
+  },
+  {
+    "formatted_address": "30 Gov. Pack Rd, Baguio, 2602 Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4057496, "lng": 120.59774190000007 },
+      "viewport": {
+        "south": 16.4044192697085,
+        "west": 120.59608226970852,
+        "north": 16.4071172302915,
+        "east": 120.59878023029148
+      }
+    },
+    "id": "a44ae8aa23ef32fc8f78931d207c0a0adf6865ff",
+    "name": "Museo Kordilyera",
+    "place_id": "ChIJx3ulwkGhkTMRdpW5BVY8Km0",
+    "rating": 4.6,
+    "review": {
+      "author_name": "C. Jean Regala",
+      "author_url": "https://www.google.com/maps/contrib/105684048267418064845/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh6.googleusercontent.com/-1knnWVY3rH4/AAAAAAAAAAI/AAAAAAAAUGE/DinddJ4wLt4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "Amazing museum, hidden like a gem in UP Baguio! Small, intimate exhibits lets you interact and learn about the Cordilleran cultures up close. Quaint little bookshop and cafe, too.",
+      "time": 1552483169
+    },
+    "image": "assets/img/tourist-spots/museo-kordilyera.jpg",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1552813200000
+          },
+          "open": {
+            "day": 0,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1552784400000
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1552986000000
+          },
+          "open": {
+            "day": 2,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1552957200000
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1553072400000
+          },
+          "open": {
+            "day": 3,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1553043600000
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1553158800000
+          },
+          "open": {
+            "day": 4,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1553130000000
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1553245200000
+          },
+          "open": {
+            "day": 5,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1553216400000
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1552726800000
+          },
+          "open": {
+            "day": 6,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1552698000000
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ]
+    },
+    "website": "http://www.facebook.com/upbmuseokordilyera/",
+    "history": "Located inside the University of the Philippines Baguio, Museo Kordilyera is the first ethnographic museum in the Northern part of the Philippines. The three-story museum was formally opened to the public on January 31 of this year.",
+    "formatted_phone_number": "(074) 442 5794"
+  },
+  {
+    "formatted_address": "The Mansion, Romulo Dr, Baguio, Benguet, Philippines",
+    "geometry": {
+      "location": { "lat": 16.4123678, "lng": 120.62147270000003 },
+      "viewport": {
+        "south": 16.41107681970849,
+        "west": 120.62008741970851,
+        "north": 16.4137747802915,
+        "east": 120.62278538029148
+      }
+    },
+    "id": "64f5863d3214ab30e48754687c197153ec3c90fa",
+    "name": "The Mansion",
+    "place_id": "ChIJobXs6qymkTMRluHL5rcRpeM",
+    "rating": 0,
+    "review": { "text": "" },
+    "image": "assets/img/tourist-spots/the-mansion.jpg",
+    "history": "The Mansion House is the official summer palace of the President of the Philippines. The mansion is located in the summer capital of the country, Baguio, situated around 5,000 feet asl in the Cordillera Central Range of northern Luzon."
+  },
+  {
+    "formatted_address": "PH, Leonard Wood Rd, Baguio, 2600",
+    "geometry": {
+      "location": { "lat": 16.4057496, "lng": 120.59774190000007 },
+      "viewport": {
+        "south": 16.4044192697085,
+        "west": 120.59608226970852,
+        "north": 16.4071172302915,
+        "east": 120.59878023029148
+      }
+    },
+    "id": "gfagasdgsadgasdgasgasgasgsagasgsagasg",
+    "name": "Teacher's Camp",
+    "place_id": "asdgasdghaehgghsdgbsdfbsd",
+    "rating": 4,
+    "review": {
+      "author_name": "C. Jean Regala",
+      "author_url": "https://www.google.com/maps/contrib/105684048267418064845/reviews",
+      "language": "en",
+      "profile_photo_url": "https://lh6.googleusercontent.com/-1knnWVY3rH4/AAAAAAAAAAI/AAAAAAAAUGE/DinddJ4wLt4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "One of the classic sites in the city that still has a lot of pine trees around. Old but functional structures that reflect the look of the old Baguio City are still around. Hope DepEd will find ways to preserve this historical place.",
+      "time": 1552483169
+    },
+    "formatted_phone_number": "(074) 442 4417",
+    "image": "assets/img/tourist-spots/Teachers Camp.jpg",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1552813200000
+          },
+          "open": {
+            "day": 0,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1552784400000
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1552986000000
+          },
+          "open": {
+            "day": 2,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1552957200000
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1553072400000
+          },
+          "open": {
+            "day": 3,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1553043600000
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1553158800000
+          },
+          "open": {
+            "day": 4,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1553130000000
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1553245200000
+          },
+          "open": {
+            "day": 5,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1553216400000
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700",
+            "hours": 17,
+            "minutes": 0,
+            "nextDate": 1552726800000
+          },
+          "open": {
+            "day": 6,
+            "time": "0900",
+            "hours": 9,
+            "minutes": 0,
+            "nextDate": 1552698000000
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ]
+    },
+    "website": "https://en.wikipedia.org/wiki/Teacher%27s_Camp",
+    "history": "Teacher's Camp served as a training center for teachers from various parts of the Philippines. Teachers enroll in education special courses during the summer break. The center hosts classrooms, dormitories, cottages, dining areas, assembly halls and administrative offices. When teachers are not using the facility, the dormitories and cottages are rented to tourists. It also hosts events sponsored by government agencies."
+  }
+]

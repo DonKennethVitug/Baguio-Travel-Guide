@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>BaguioTravelGuide</title>
+    <base href="" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script async defer type="text/javascript" src="cordova.js"></script>
+    <script
+      async
+      defer
+      type="text/javascript"
+      src="assets/js/index.js"
+    ></script>
+
+    <style>
+      .main-wrapper {
+        overflow: hidden;
+      }
+      .preloader {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 99999;
+        height: 100%;
+        width: 100%;
+        background-color: #5ec092;
+        overflow: hidden !important;
+      }
+      .loader-container {
+        top: 50%;
+        left: 50%;
+      }
+      .signal {
+        border: 25px solid #f68d25;
+        border-radius: 220px;
+        height: 220px !important;
+        width: 220px !important;
+        opacity: 1;
+        -webkit-animation: pulsate 1s ease-out;
+        -moz-animation: pulsate 1s ease-out;
+        -webkit-animation-iteration-count: infinite;
+        -moz-animation-iteration-count: infinite;
+      }
+      @-webkit-keyframes pulsate {
+        0% {
+          transform: translate(-50%, -50%) scale(0.1);
+          opacity: 0;
+        }
+        50% {
+          opacity: 1;
+        }
+        100% {
+          transform: translate(-50%, -50%) scale(1.2);
+          opacity: 0;
+        }
+      }
+      .always-middle {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        width: 200px;
+        transform: translate(-50%, -50%);
+      }
+    </style>
+  </head>
+  <body>
+    <app-root>
+      <div class="main-wrapper">
+        <div class="preloader">
+          <img class="always-middle" src="assets/img/btg-icon-out.png" />
+          <div class="always-middle signal"></div>
+        </div>
+      </div>
+    </app-root>
+    <script
+      async
+      defer
+      type="text/javascript"
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDwVU41VQIfQg5YYCkRcYXCXGiqIlgbqTk&libraries=places"
+    ></script>
+  </body>
+</html>

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "Sundot Kulangot",
+    "name": "Sundot Kulangot",
+    "place_id": "Baguio City Public Market",
+    "rating": 101,
+    "review": { "text": "This goodies in Baguio is quite nostalgic and those kids who grew up in 90s are very much aware of this treat. It may sound disgusting but this  local kalamay made from brown sugar and sticky rice is packed inside split round wooden shells that is rejoined by a red tape is definitely a great snack. It is the smallest known traditional packaging of Kalamay. They are sold in bundles, several of these kalamay balls are nestled inside split bamboo and tied with a string. much like the image above. " },
+    "image": "assets/img/souvenirs/Sundot Kulangot.jpg",
+    "price": "Very affordable prices for just 150 pesos"
+  },
+  {
+    "id": "Baguio Brooms",
+    "name": "Baguio Brooms",
+    "place_id": "Baguio City Public Market",
+    "rating": 200,
+    "review": { "text": "Another thing that you should not miss in Baguio is their famous “walis tambo”. These brooms come with woven or wooden handles that usually bear the name “Baguio City.” They are known for their great and long lasting quality (in fact, you can even see a bunch of imitations here in Manila). If only our van is spacious enough, i could have buy a pair of this broom too!" },
+    "image": "assets/img/souvenirs/Baguio Brooms.jpg",
+    "price": "Very affordable prices for just 150 pesos"
+  },
+  {
+    "id": "Native Baskets",
+    "name": "Native Baskets",
+    "place_id": "Baguio City Public Market",
+    "rating": 101,
+    "review": { "text": "These are more commonly known as the Pasiking. These are basically indigenous basket-backpack found among the various ethno-linguistic groups of Northern Luzon in the Philippines. Pasiking designs may have sacred allusions, although many are purely aesthetic. I saw a bunch of them durin my visit to Cordillera World Museum and they are made in various sizes and finished with either a natural or dark color. This may not be the kind of bag you would carry on a daily basis but it is truly worth buying!" },
+    "image": "assets/img/souvenirs/Native Baskets.jpg",
+    "price": "Very affodabled prices for just 250 pesos"
+  },
+  {
+    "id": "Penis Ashtray and Barrel Man",
+    "name": "Penis Ashtray and Barrel Man",
+    "place_id": "Baguio City Public Market",
+    "rating": 200,
+    "review": { "text": "Aside from their wonderful handicrafts, Baguio is also known for being one of the great sources of impressive wood carvings much like those tall Igorot statues in Cordillera Museum. Speaking of wood carvings, there is no better pasalubong to buy than their naughty ashtrays depicting men’s genital. They also come in various sizes. Baguio is also known for the Barrel man. As what the term suggests, it is a wood carving that depicts a man covered in huge barrel. The barrel can be removed and the man’s over-sized genital will be revealed." },
+    "image": "assets/img/souvenirs/Penis Ashtray and Barrel Man.jpg",
+    "price": "Very affodable prices for just 200 to 500 pesos"
+  },
+  {
+    "id": "Key chains and Fridge Magnets",
+    "name": "Key chains and Fridge Magnets",
+    "place_id": "Baguio City Public Market",
+    "rating": 200,
+    "review": { "text": "Possibly the most practical and most affordable souvenirs you can buy in Baguio. You can see them almost everywhere even in Wright Park! Each key chain is worth Php10 but you will get big discounts if you buy 5 or ten pieces. Same thing goes with the fridge magnets. If you are lucky enough, you can also ask them to print names onto it. A perfect pasalubon for friends indeed!" },
+    "image": "assets/img/souvenirs/Key chains and Fridge Magnets.jpg",
+    "price": "Very affordable prices for just 100 pesos."
+  },
+  {
+    "id": "Strawberries",
+    "name": "Strawberries",
+    "place_id": "Strawberry Farm",
+    "rating": 200,
+    "review": { "text": "I guess Baguio trip will not be completed without packing your bag with their freshly harvested strawberries." },
+    "image": "assets/img/souvenirs/Strawberries.jpg",
+    "price": "Much like the veggies, you can buy these strawberries in such very affordable price. Aside from the strawberries, i spotted some fresh fruits too like the Sagada Oranges, rambutan, lansones and more."
+  },
+  {
+    "id": "Homemade green tea ice cream",
+    "name": "Homemade green tea ice cream",
+    "place_id": "Chaya",
+    "rating": 100,
+    "review": { "text": "Japanese restaurant Chaya serves rich, authentic Japanese fare, from fresh tuna and salmon sashimi, to crisp vegetable and seafood tempura. But it is their homemade green tea ice cream – a small serving of which comes complimentary at the end of every meal – that really takes the cake. Served with red beans and, in the case of the Cream Anmitsu, a generous serving of fruits in season, the green tea ice cream makes for the perfectly refreshing cap to a classic Chaya meal." },
+    "image": "assets/img/foods/Homemade green tea ice cream.jpg",
+    "price": "Ador their green tea ice cream with whipped cream on top combined with red beans. It's strong and bitter combo taste attracted me. It's priced for 130 pesos only."
+  },
+  {
+    "id": "Lagud (Strawberry beer)",
+    "name": "Lagud (Strawberry beer)",
+    "place_id": "Baguio Craft Brewery",
+    "rating": 200,
+    "review": { "text": "Baguio’s first craft brewery offers a variety of flavors that will keep both the curious and the avid craft beer fan on their toes." },
+    "image": "assets/img/foods/Lagud (Strawberry beer).jpg",
+    "price": "Try the distinct flavor of the strawberry beer, Lagud, which is highly recommended with the buffalo wings. The price range is from 160 to 230 pesos."
+  },
+  {
+    "id": "Dark beer cheesecake",
+    "name": "Dark beer cheesecake",
+    "place_id": "Ozark Diner",
+    "rating": 98,
+    "review": { "text": "You probably won’t eat cheesecake and down it with beer, but there’s another – nay, more ingenious – way of doing it: the dark beer cheesecake, which you can indulge in at Ozark Diner along Bareng Drive in Bakakeng. And if you’re still up for another slice, also try the Chocolate Siling Labuyo cheesecake (yes, complete with candied chillies on top)." },
+    "image": "assets/img/foods/Dark beer cheesecake.jpg",
+    "price": "The price is ver affordable for only 150 pesos."
+  },
+  {
+    "id": "Balbacua",
+    "name": "Balbacua",
+    "place_id": "Urban Kamote",
+    "rating": 97,
+    "review": { "text": "Balbacua is a Southern Mindanao beef stew dish, slow-cooked for six hours and served with your choice of mountain rice or noodles. Factor in the place’s rustic, artsy ambiance and convenient location and you’ve got yourself your newest Baguio haunt." },
+    "image": "assets/img/foods/Balbacua.jpg",
+    "price": "How far can P50 get you? At Balbacua at the Ili Likha Artist Village along Assumption Road, Baguio’s newest food community, you can get a steaming bowl of balbacua."
+  },
+  {
+    "id": "Flowers and Plants",
+    "name": "Flowers and Plants",
+    "place_id": "Baguio City Public Market",
+    "rating": 101,
+    "review": { "text": "If you got enough space for your car, then you should not miss buying their cute potted plants. You can find a wide variety of cactus almost everywhere! I saw a bunch in Mines View Park too! Cut-flowers such as roses,  chrysanthe- mums, marigolds, daisies, anthuriums, Malaysian mums, plus longer lasting varieties such as everlasting and statis are sold at the market. Exotic orchids, hyacinths, tulips, petunias and also make their appearance at the orchida-rium." },
+    "image": "assets/img/souvenirs/Flowers and Plants.jpg",
+    "price": "Cut-flowers such as roses,  chrysanthe- mums, marigolds, daisies, anthuriums, Malaysian mums, plus longer lasting varieties such as everlasting and statis are sold at the market."
+  },
+  {
+    "id": "Fresh Vegetables",
+    "name": "Fresh Vegetables",
+    "place_id": "Baguio City Public Market",
+    "rating": 101,
+    "review": { "text": "Fresh vegetables at the market. Its perfect for pasalubong for your families. Stay healthy!" },
+    "image": "assets/img/souvenirs/Fresh Vegetables.jpg",
+    "price": "You can buy a lot of vegetables in just 100 pesos"
+  },
+  {
+    "id": "Puto bumbong",
+    "name": "Puto bumbong",
+    "place_id": "Solibao",
+    "rating": 94,
+    "review": { "text": "Available all day, every day, Solibao’s puto bumbong makes everyday Christmas possible. Made with pure ube and topped with generous muscovado sugar, shredded coconut, and a dollop of butter." },
+    "image": "assets/img/foods/Puto bumbong.jpg",
+    "price": "a serving of puto bumbong is always perfect for a cold Baguio evening and it cost only for 100 pesos."
+  },
+  {
+    "id": "Sans rival",
+    "name": "Sans rival",
+    "place_id": "Amare La Cucina",
+    "rating": 93,
+    "review": { "text": "Light, crisp, buttery, and creamy, Sizzling Plate’s Sans Rival makes for the perfect cap to the restaurant’s sizzling steak dishes." },
+    "image": "assets/img/foods/Sans rival.jpg",
+    "price": "Its wafer base makes it a much lighter version of the usually dense cake, and at only P26 a slice, you’ll most likely order second or third helpings. Whole servings are also available at P300."
+  },
+  {
+    "id": "Raisin Bread",
+    "name": "Raisin Bread",
+    "place_id": "ROADHOUSE BARN",
+    "rating": 92,
+    "review": { "text": "You don’t need to be a member of the Baguio Country Club (BCC) to enjoy its famous raisin bread." },
+    "image": "assets/img/foods/Raisin Bread.jpg",
+    "price": "Each freshly baked loaf – rich, dense, and bursting with raisins – goes for P190."
+  },
+  {
+    "id": "Strawberry Taho",
+    "name": "Strawberry Taho",
+    "place_id": "Strawberry Farm",
+    "rating": 85,
+    "review": { "text": "Made from soya beans (fresh soft/ silken tofu), topped with sago pearls or tapioca, and sweetened with generous amounts of strawberry jam instead of the usual arnibal or caramelized sugar syrup." },
+    "image": "assets/img/foods/Strawberry Taho.jpg",
+    "price": "Yummy! Biggest cup of ice cream costs P50. It is P50 well spent! Cup of taho costs from P25 - P40. The strawberry taho in Burnham park is way better than the one we had here. What is worth buying here is the raw honey a small bottle costs P100."
+  }
+]

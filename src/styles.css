@@ -1,0 +1,88 @@
+/* You can add global styles to this file, and also import other style files */
+
+body *{
+  font-weight: bold !important;
+}
+
+.ngx-datatable.bootstrap {
+  font-weight: bold;
+}
+
+.ngx-datatable.bootstrap .datatable-footer {
+  margin-top: -5px !important;
+  color: #ededed !important;
+  background: #343a40 !important;
+}
+
+.ngx-datatable.bootstrap .datatable-header {
+  background: #343a40 !important;
+  color: #ededed !important;
+  text-transform: capitalize !important;
+}
+
+.progress-bar {
+  background: #343a40 !important;
+  font-weight: bold;
+}
+
+.bg-danger {
+  background: #dc3545 !important;
+  font-weight: bold;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+a {
+  font-weight: bold;
+}
+
+.pac-container { z-index: 100000; }
+
+.ngx-dropdown-button {
+  height: 40px;
+}
+
+.checkbox-large {
+  height: 40px;
+  width: 40px;
+}
+
+/* SIDE BANNER */
+#side-banner{
+	left: 0px;
+	position: fixed;
+	top: 50px;	
+}
+#side-banner2{
+	right: 0px;
+	position: fixed;
+	top: 50px;
+}
+
+.dropdown-item:hover {
+  text-decoration: none;
+  background-color: #eee;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+  color: black;
+  text-decoration: none;
+  background-color: #eee;
+}
+
+@media (max-width:1350px) {
+	
+	#side-banner{
+    display: none;	
+  }
+  #side-banner2{
+    display: none;
+  }
+	
+}
+
+.highlighted {
+	background-color: #FFFF00
+}

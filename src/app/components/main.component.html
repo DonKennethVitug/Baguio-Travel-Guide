@@ -1,0 +1,25 @@
+<!-- TOP NAV -->
+<app-header *ngIf="isAppReady"></app-header>
+<!-- /TOP NAV -->
+
+<!-- CONTENT -->
+<div id="Content" *ngIf="isAppReady">
+  <router-outlet></router-outlet>
+</div>
+<!-- /CONTENT -->
+
+<!-- BOTTOM NAV -->
+<app-bot-nav *ngIf="isAppReady"></app-bot-nav>
+<!-- /BOTTOM NAV -->
+
+<app-loading></app-loading>
+<app-modal></app-modal>
+
+<div class="main-wrapper" *ngIf="!isAppReady">
+  <div class="preloader">
+    <img class="always-middle" src="assets/img/btg-icon-out.png" />
+    <div class="always-middle signal"></div>
+  </div>
+</div>
+
+<div id="baguio_map_hidden" style="display: none"></div>

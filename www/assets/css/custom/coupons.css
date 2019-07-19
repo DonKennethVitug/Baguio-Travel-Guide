@@ -1,0 +1,67 @@
+/* COUPON LIST */
+
+.coupon-list {
+}
+
+.coupon-list .coupon-item {
+  margin-bottom: 20px;
+}
+
+.coupon-item > .wrapper {
+  background: #e9ecef;
+  border-radius: 4px;
+  padding: 15px;
+}
+
+.coupon-item .coupon-name {
+}
+
+.coupon-item .coupon-name h3,
+.coupon-item .coupon-name h4 {
+  font-weight: 600;
+  margin-top: 0;
+}
+
+.coupon-item .coupon-name h4 a {
+  display: block;
+}
+
+.coupon-item .coupon-excerpt > a {
+  display: block;
+}
+
+.coupon-item .coupon-excerpt > a:after {
+  color: #666;
+  content: "..";
+}
+
+.coupon-item .coupon-more {
+  margin-top: 0.5em;
+}
+
+.coupon-item .coupon-information {
+}
+
+.coupon-item .coupon-information .information-item {
+  margin-bottom: 0.5em;
+}
+
+.coupon-item .coupon-information .information-item .information-item-label {
+  color: #999;
+  font-weight: 700;
+}
+
+.coupon-item .coupon-description {
+  margin-top: 1em;
+}
+
+.coupon-item .coupon-description .description-heading {
+  margin: 0 0 0.5em 0;
+}
+
+.coupon-share {
+}
+
+.coupon-share .share-link {
+  margin-right: 0.25em;
+}
